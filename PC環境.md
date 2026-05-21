@@ -1,4 +1,4 @@
-### PC環境・周辺機器
+# PC環境・周辺機器
 * OS: Windows 11 Home
 * CPU: Core i9 14900KF
 * RAM: 64GB (32GB × 2)
