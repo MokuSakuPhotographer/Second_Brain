@@ -1,0 +1,17 @@
+.dataview.table-view-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.dataview.table-view-table thead tr {
+  border-bottom: 2px solid var(--background-modifier-border);
+}
+
+.dataview.table-view-table tbody tr {
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.dataview.table-view-table th,
+.dataview.table-view-table td {
+  padding: 8px 10px;
+}
