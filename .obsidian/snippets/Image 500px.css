@@ -1,0 +1,4 @@
+.image-400 img {
+  max-width: 400px !important;
+  height: auto !important;
+}
