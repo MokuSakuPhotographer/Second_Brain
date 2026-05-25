@@ -85,13 +85,13 @@ Deep Research用の撮影機材サマリー。詳細ノートを毎回読ませ�
 ## レンズ
 
 - [[SIGMA Art 85mm F1.4 DG DN]]（SIGMA） — マウント: Sony E / 焦点距離: 85mm / 開放F値: F1.4 / 種類: 単焦点 / フィルター径: 77mm
-- [[SONY SEL35F18F]]（SONY） — マウント: Sony E / 焦点距離: 35mm / 開放F値: F1.8 / 種類: 単焦点 / フィルター径: 55mm
+- [[撮影機材/レンズ/SONY SEL35F18F]]（SONY） — マウント: Sony E / 焦点距離: 35mm / 開放F値: F1.8 / 種類: 単焦点 / フィルター径: 55mm
 - [[SONY SEL55F18Z]]（SONY） — マウント: Sony E / 焦点距離: 55mm / 開放F値: F1.8 / 種類: 単焦点 / フィルター径: 49mm
 - [[SONY SEL90M28G]]（SONY） — マウント: Sony E / 焦点距離: 90mm / 開放F値: F2.8 / 種類: マクロ単焦点 / フィルター径: 62mm
-- [[TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]]（TAMRON） — マウント: Sony E / 焦点距離: 16-30mm / 開放F値: F2.8 / 種類: 広角ズーム
-- [[TAMRON 28-200mm F／2.8-5.6 Di III RXD (Model A071)]]（TAMRON） — マウント: Sony E / 焦点距離: 28-200mm / 開放F値: F2.8-5.6 / 種類: 高倍率ズーム / フィルター径: 67mm
-- [[TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]]（TAMRON） — マウント: Sony E / 焦点距離: 35-100mm / 開放F値: F2.8 / 種類: 標準〜中望遠ズーム
-- [[TAMRON 70-180mm F／2.8 Di III VC VXD G2]]（TAMRON） — マウント: Sony E / 焦点距離: 70-180mm / 開放F値: F2.8 / 種類: 望遠ズーム
+- [[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]]（TAMRON） — マウント: Sony E / 焦点距離: 16-30mm / 開放F値: F2.8 / 種類: 広角ズーム
+- [[撮影機材/レンズ/TAMRON 28-200mm F／2.8-5.6 Di III RXD (Model A071)]]（TAMRON） — マウント: Sony E / 焦点距離: 28-200mm / 開放F値: F2.8-5.6 / 種類: 高倍率ズーム / フィルター径: 67mm
+- [[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]]（TAMRON） — マウント: Sony E / 焦点距離: 35-100mm / 開放F値: F2.8 / 種類: 標準〜中望遠ズーム
+- [[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2]]（TAMRON） — マウント: Sony E / 焦点距離: 70-180mm / 開放F値: F2.8 / 種類: 望遠ズーム
 
 ## 三脚・スタンド・ジンバル・マウント類
 

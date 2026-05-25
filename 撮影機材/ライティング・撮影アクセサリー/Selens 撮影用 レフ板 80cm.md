@@ -10,6 +10,8 @@ tags:
   - 撮影
   - Selens
   - ライティング撮影アクセサリー
+aliases:
+  - レフ板
 ---
 
 # Selens 撮影用 レフ板 80cm

@@ -3,5 +3,7 @@
   "dataview",
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-image-gallery"
+  "obsidian-image-gallery",
+  "obisidian-note-linker",
+  "ics"
 ]

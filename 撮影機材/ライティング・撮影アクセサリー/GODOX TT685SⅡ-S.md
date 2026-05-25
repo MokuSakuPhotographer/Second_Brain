@@ -10,6 +10,8 @@ tags:
   - 撮影
   - Godox
   - ライティング撮影アクセサリー
+aliases:
+  - TT685S
 ---
 
 # GODOX TT685SⅡ-S

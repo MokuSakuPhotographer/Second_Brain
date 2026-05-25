@@ -10,6 +10,8 @@ tags:
   - 撮影
   - HIPPOREILLY
   - ライティング撮影アクセサリー
+aliases:
+  - A3レフ板
 ---
 
 # HIPPO REILLY A3 レフ板

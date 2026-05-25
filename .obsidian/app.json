@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "画像アセット",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": false
 }

@@ -9,6 +9,8 @@ tags:
   - 撮影
   - Godox
   - ライティング撮影アクセサリー
+aliases:
+  - AD100Pro Ⅱ
 ---
 
 # GODOX AD100Pro Ⅱ

@@ -10,6 +10,8 @@ tags:
   - 撮影
   - Godox
   - ライティング撮影アクセサリー
+aliases:
+  - X3S
 ---
 
 # Godox X3S

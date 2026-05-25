@@ -8,6 +8,8 @@ tags:
   - 撮影
   - アクセサリー
   - 三脚スタンドジンバルマウント類
+aliases:
+  - RCS2 ハンドグリップ
 ---
 
 # SmallRig DJI RSC2用ハンドグリップ
