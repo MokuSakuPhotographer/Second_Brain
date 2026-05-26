@@ -49,6 +49,7 @@ aliases:
   - SONY SEL90M28G
   - SEL90M28G
   - 90mm F2.8
+  - 90mm Macro
 関連機材:
   - "[[SONY α7Ⅴ]]"
   - "[[SONY α7Ⅳ]]"

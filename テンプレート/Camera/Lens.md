@@ -89,5 +89,5 @@ aliases:
 ```dataview
 LIST
 FROM #photo
-WHERE contains(レンズ, this.file.name)
+WHERE contains(レンズ, this.file.link)
 SORT file.ctime DESC

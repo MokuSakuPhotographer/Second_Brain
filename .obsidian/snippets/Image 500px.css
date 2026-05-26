@@ -1,4 +1,7 @@
-.image-400 img {
-  max-width: 400px !important;
-  height: auto !important;
+/* サイズ指定なし画像 → 300px */
+.markdown-preview-view img:not([width]),
+.markdown-source-view.mod-cm6 img:not([width]) {
+  width: 300px;
+  height: auto;
+  max-width: 100%;
 }

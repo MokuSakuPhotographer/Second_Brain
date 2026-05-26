@@ -50,6 +50,7 @@ source_urls:
 aliases:
   - SEL55F18Z
   - SONY SEL55F18Z
+  - 55mm F1.8 ZA
 ---
 
 ## 公式仕様メモ
