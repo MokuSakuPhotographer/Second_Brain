@@ -44,9 +44,9 @@ source_urls:
   - "公式仕様ページ: https://www.sony-asia.com/electronics/camera-lenses/sel55f18z/specifications"
   - "発売日参考: https://www.sony.jp/ichigan/info2/20131129.html"
 関連機材:
-  - "[[SONY α7Ⅴ]]"
-  - "[[SONY α7Ⅳ]]"
-  - "[[SONY α7C]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C]]"
 aliases:
   - SEL55F18Z
   - SONY SEL55F18Z
@@ -161,4 +161,4 @@ SORT file.ctime DESC
 ## 関連ノート
 
 - [[撮影機材一覧]]
-- [[SONY α7Ⅴ]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ]]

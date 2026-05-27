@@ -41,10 +41,10 @@ source_urls:
   - "公式製品ページ: https://www.tamron.com/global/consumer/lenses/a078/"
   - "公式仕様ページ: https://www.tamron.com/global/consumer/lenses/a078/spec.html"
 関連機材:
-  - "[[SONY α7Ⅴ]]"
-  - "[[SONY α7Ⅳ]]"
-  - "[[SONY α7C]]"
-  - "[[H&Y ステップアップリング 67-77mm マグネット式]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C]]"
+  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 67-77mm マグネット式]]"
 aliases:
   - 35-100mm
   - TAMRON 35-100mm F2.8
@@ -103,7 +103,7 @@ aliases:
 
 ### テーブルフォト・物撮り
 - カフェとかでちょっと撮る分にはいいかも
-- 作品撮りでは[[SONY SEL35F18F|35mm F1.8]]や[[TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]があるので優先順位は落ちる
+- 作品撮りでは[[撮影機材/レンズ/SONY SEL35F18F|35mm F1.8]]や[[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]があるので優先順位は落ちる
 
 ## α7Ⅴで使う時のメモ
 
@@ -164,4 +164,4 @@ SORT file.ctime DESC
 ## 関連ノート
 
 - [[カメラ機材一覧]]
-- [[SONY α7Ⅴ]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ]]

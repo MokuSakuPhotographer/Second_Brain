@@ -43,10 +43,10 @@ source_urls:
   - "公式製品ページ: https://www.tamron.com/global/consumer/lenses/a065/"
   - "公式仕様ページ: https://www.tamron.com/global/consumer/lenses/a065/spec.html"
 関連機材:
-  - "[[SONY α7Ⅴ]]"
-  - "[[SONY α7Ⅳ]]"
-  - "[[SONY α7C]]"
-  - "[[H&Y ステップアップリング 67-77mm マグネット式]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C]]"
+  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 67-77mm マグネット式]]"
 aliases:
   - 70-180mm
   - TAMRON 70-180mm F2.8
@@ -157,4 +157,4 @@ SORT file.ctime DESC
 ## 関連ノート
 
 - [[カメラ機材一覧]]
-- [[SONY α7Ⅴ]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ]]

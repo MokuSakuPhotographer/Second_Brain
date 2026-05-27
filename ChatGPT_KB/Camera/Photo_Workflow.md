@@ -4,12 +4,12 @@
 
 ## 主な編集ソフト
 
-- [[Adobe After Effects]] — 映像合成・モーショングラフィックス
-- [[Adobe Illustrator]] — ベクター制作・デザイン
-- [[Adobe Lightroom Classic]] — 写真現像・管理
-- [[Adobe Photoshop]] — 写真編集・画像加工
-- [[Adobe Premiere Pro]] — 動画編集
-- [[Blender]] — 3D制作
+- [[撮影機材/ソフトウェア/Adobe After Effects]] — 映像合成・モーショングラフィックス
+- [[撮影機材/ソフトウェア/Adobe Illustrator]] — ベクター制作・デザイン
+- [[撮影機材/ソフトウェア/Adobe Lightroom Classic]] — 写真現像・管理
+- [[撮影機材/ソフトウェア/Adobe Photoshop]] — 写真編集・画像加工
+- [[撮影機材/ソフトウェア/Adobe Premiere Pro]] — 動画編集
+- [[撮影機材/ソフトウェア/Blender]] — 3D制作
 
 ## 機材管理方針
 

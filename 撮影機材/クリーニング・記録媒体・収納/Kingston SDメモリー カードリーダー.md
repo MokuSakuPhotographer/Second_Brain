@@ -19,9 +19,9 @@ tags:
 - **カテゴリ**: クリーニング・記録媒体・収納
 - **メーカー**: Kingston
 ## 対応機材
-- [[Kingston SDXCカード 256GB Canvas React Plus]]
-- [[Lexar SDXCカード Professional 1800x 256GB]]
-- [[ProGrade Digital GOLD メモリーカード 64GB]]
+- [[撮影機材/クリーニング・記録媒体・収納/Kingston SDXCカード 256GB Canvas React Plus]]
+- [[撮影機材/クリーニング・記録媒体・収納/Lexar SDXCカード Professional 1800x 256GB]]
+- [[撮影機材/クリーニング・記録媒体・収納/ProGrade Digital GOLD メモリーカード 64GB]]
 ## 仕様
 
 - **種類**: カードリーダー

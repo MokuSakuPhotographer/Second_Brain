@@ -45,10 +45,10 @@ source_urls:
   - "公式製品ページ: https://www.sony.co.id/en/electronics/camera-lenses/sel35f18f"
   - "発売日参考: https://kakaku.com/item/K0001173506/"
 関連機材:
-  - "[[SONY α7Ⅴ]]"
-  - "[[SONY α7Ⅳ]]"
-  - "[[SONY α7C]]"
-  - "[[H&Y ステップアップリング 55-77mm マグネット式]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C]]"
+  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 55-77mm マグネット式]]"
 aliases:
   - SEL35F18F
   - SONY SEL35F18F
@@ -164,4 +164,4 @@ SORT file.ctime DESC
 ## 関連ノート
 
 - [[カメラ機材一覧]]
-- [[SONY α7Ⅴ]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ]]

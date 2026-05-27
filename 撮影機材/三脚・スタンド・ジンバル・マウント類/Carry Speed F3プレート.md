@@ -19,7 +19,7 @@ tags:
 - **カテゴリ**: 三脚・スタンド・ジンバル・マウント類
 - **メーカー**: Carry Speed
 ## 対応機材
-- [[SPIDER CAMERA HOLSTER]]
+- [[撮影機材/三脚・スタンド・ジンバル・マウント類/SPIDER CAMERA HOLSTER]]
 ## 仕様
 
 - **種類**: プレート

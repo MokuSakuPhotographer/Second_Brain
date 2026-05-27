@@ -60,13 +60,13 @@ tags:
   - sony
   - alpha
 関連機材:
-  - "[[SONY SEL55F18Z|SEL55F18Z]]"
-  - "[[SONY SEL35F18F|SEL35F18F]]"
-  - "[[SONY SEL90M28G|SEL90M28G]]"
-  - "[[TAMRON 35-100mm F2.8 Di III VXD (Model A078S)|35-100mm]]"
-  - "[[TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]"
-  - "[[TAMRON 70-180mm F／2.8 Di III VC VXD G2|70-180mm]]"
-  - "[[SIGMA Art 85mm F1.4 DG DN|85mm F1.4]]"
+  - "[[撮影機材/レンズ/SONY SEL55F18Z|SEL55F18Z]]"
+  - "[[撮影機材/レンズ/SONY SEL35F18F|SEL35F18F]]"
+  - "[[撮影機材/レンズ/SONY SEL90M28G|SEL90M28G]]"
+  - "[[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)|35-100mm]]"
+  - "[[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]"
+  - "[[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2|70-180mm]]"
+  - "[[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|85mm F1.4]]"
 ---
 
 ## 基本情報
@@ -200,12 +200,12 @@ tags:
 
 | レンズ | 用途・相性 |
 |---|---|
-| [[TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]] | ポートレート・イベント用 |
-| [[TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]] | 広角スナップ・風景用 |
-| [[TAMRON 70-180mm F／2.8 Di III VC VXD G2]] | 望遠ポートレート用 |
-| [[SONY SEL55F18Z]] | 軽量スナップ・ポートレート用 |
-| [[SONY SEL90M28G]] | マクロ・物撮り用 |
-| [[SIGMA Art 85mm F1.4 DG DN]] | ポートレート用 |
+| [[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]] | ポートレート・イベント用 |
+| [[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]] | 広角スナップ・風景用 |
+| [[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2]] | 望遠ポートレート用 |
+| [[撮影機材/レンズ/SONY SEL55F18Z]] | 軽量スナップ・ポートレート用 |
+| [[撮影機材/レンズ/SONY SEL90M28G]] | マクロ・物撮り用 |
+| [[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN]] | ポートレート用 |
 
 ## 作例・撮影メモ
 
@@ -237,4 +237,4 @@ SORT file.ctime DESC
 
 - [[カメラ機材一覧]]
 - [[レンズ]]
-- [[SONY α7Ⅴ]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ]]

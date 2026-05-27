@@ -45,9 +45,9 @@ source_urls:
   - "公式製品ページ: https://www.sigma-global.com/en/lenses/a020_85_14/"
   - "公式発表: https://www.sigma-global.com/jp/news/2020/08/06/1153/"
 関連機材:
-  - "[[SONY α7Ⅴ]]"
-  - "[[SONY α7Ⅳ]]"
-  - "[[SONY α7C]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C]]"
 aliases:
   - 85mm F1.4
 ---
