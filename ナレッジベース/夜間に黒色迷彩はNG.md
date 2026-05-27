@@ -1,12 +1,20 @@
+---
+tags:
+  - 知識
+  - 軍事
+  - 色
+source:
+  - Gemini
+  - "[Quora: Why doesn't the U.S. military ever wear black as their BDU?](https://www.quora.com/Why-doesnt-the-U-S-military-ever-wear-black-as-their-BDU#:~:text=Odysseus%20Rex,6)"
+  - "[Quora: Why don't special forces wear black camouflage during night missions?](https://www.quora.com/Why-dont-special-forces-wear-black-camouflage-during-night-missions)"
+  - "[Patrol Base: Tan VS Black - Which is the best colour for an Airsoft gun?](https://www.patrolbase.co.uk/airsoft-buying-guides/tan-vs-black-which-is-the-best-colour-for-an-airsoft-gun#:~:text=Infrared%20Signature%20%2D%20Why%20Militaries%20and,devices%20by%20repelling%20IR%20radiation)"
+作成日時: "2025年11月23日 7:13"
+まとめ済: "Yes"
+---
+
 # 夜間に黒色迷彩はNG
 
-作成日時: 2025年11月23日 7:13
-タグ: #知識
-まとめ済: Yes
-
-![IMG_2472.jpeg](6f4f8e50-1eef-4dc8-9843-215428096a24.png)
-
-# 夜間の「夜」は純粋な黒ではない
+## 夜間の「夜」は純粋な黒ではない
 
 夜間であっても、**月明かりや人工光、空の明るさなどの影響で風景は完全な黒にはならない**。
 
@@ -14,17 +22,17 @@
 
 純粋な黒の装備だと風景の色に対して際立ってしまい、人影が明確なシルエットとして現れてしまう。
 
-# 輪郭をぼかす効果がない
+## 輪郭をぼかす効果がない
 
 通常の迷彩服は複数の色やパターンを組み合わせ、対象の輪郭を破壊して背景に溶け込ませることを目的としている。
 
 黒単色だとこの効果は得られず、特に近代的な暗視装置や照準器などに対しても視認されやすくなってしまう。
 
-# では夜間作戦ではどういう迷彩を着るのか
+## では夜間作戦ではどういう迷彩を着るのか
 
 夜間や都市部での作戦では、濃いグレーやネイビー、ダークブルー、またはその土地の地形に応じた暗色が低視認性(＝ロービジビリティ)を目的として採用される。
 
-# ライフルなどの重火器は黒色でいいのか
+## ライフルなどの重火器は黒色でいいのか
 
 ライフルの武器などは迷彩効果よりも機能性、耐久性、汎用性を重視しているため。
 
@@ -63,12 +71,3 @@
 上記のように銃器は黒色になっているが、武器は比較的小さく兵士の体の一部として扱われるために影響が少ない。
 
 もし迷彩効果を優先したい場合は、兵士が自分で迷彩テープを巻いたりスプレーで塗装することもある。
-
----
-
-出典：Gemini
- [Why doesn't the U.S. military ever wear black as their BDU?](https://www.quora.com/Why-doesnt-the-U-S-military-ever-wear-black-as-their-BDU#:~:text=Odysseus%20Rex,6)
-
-[Why don't special forces wear black camouflage during night missions?](https://www.quora.com/Why-dont-special-forces-wear-black-camouflage-during-night-missions)
-
-[Player Guide: Tan VS Black - Which is the best colour for an Airsoft gun?](https://www.patrolbase.co.uk/airsoft-buying-guides/tan-vs-black-which-is-the-best-colour-for-an-airsoft-gun#:~:text=Infrared%20Signature%20%2D%20Why%20Militaries%20and,devices%20by%20repelling%20IR%20radiation).
