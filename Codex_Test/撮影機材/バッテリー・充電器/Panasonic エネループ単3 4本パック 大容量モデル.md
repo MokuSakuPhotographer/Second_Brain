@@ -7,6 +7,12 @@ type: battery
 用途:
   - ストロボ
   - 周辺機器
+aliases:
+  - エネループ単3
+  - eneloop単3
+  - Panasonic eneloop
+関連機材:
+  - "[[撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S|GODOX TT685S II]]"
 tags:
   - バッテリー
   - 撮影
@@ -23,7 +29,7 @@ tags:
 - **カテゴリ**: バッテリー・充電器
 - **メーカー**: Panasonic
 ## 対応機材
-- [[撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S]]
+- [[撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S|GODOX TT685S II]]
 ## 仕様
 
 - **種類**: 単3充電池

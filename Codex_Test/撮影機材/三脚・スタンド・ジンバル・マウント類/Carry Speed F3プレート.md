@@ -4,6 +4,12 @@ type: plate
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: Carry Speed
 種類: プレート
+aliases:
+  - Carry Speed F3プレート
+  - F3プレート
+  - プレート
+関連機材:
+  - "[[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/SPIDER CAMERA HOLSTER|SPIDER Holster]]"
 tags:
   - 撮影
   - アクセサリー
@@ -19,7 +25,7 @@ tags:
 - **カテゴリ**: 三脚・スタンド・ジンバル・マウント類
 - **メーカー**: Carry Speed
 ## 対応機材
-- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/SPIDER CAMERA HOLSTER]]
+- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/SPIDER CAMERA HOLSTER|SPIDER Holster]]
 ## 仕様
 
 - **種類**: プレート

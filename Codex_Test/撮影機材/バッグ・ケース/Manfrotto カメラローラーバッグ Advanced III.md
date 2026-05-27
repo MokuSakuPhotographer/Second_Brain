@@ -6,8 +6,10 @@ type: bag_case
 種類: ローラーバッグ
 購入日: 2026-05-21
 作成日: 2026-05-21
-関連機材:
-  - "[[]]"
+aliases:
+  - Manfrotto カメラローラーバッグ Advanced III
+  - ローラーバッグ Advanced III
+  - ローラーバッグ
 tags:
   - 撮影
   - バッグ
@@ -17,12 +19,12 @@ tags:
 # Manfrotto カメラローラーバッグ Advanced III
 ## 基本情報
 
-- メーカー:
-- 種類:
+- メーカー: Manfrotto
+- 種類: ローラーバッグ
 
 ## 関連機材
 
-- [[ ]]
+- 未確認
 
 ## メモ
 

@@ -5,6 +5,10 @@ type: bag_case
 メーカー: Hemmotop
 種類: 三脚ケース
 サイズ: 100cm×21cm×21cm
+aliases:
+  - Hemmotop 三脚ケース 100cm*21cm*21cm R10021
+  - 三脚ケース 100cm*21cm*21cm R10021
+  - 三脚ケース
 tags:
   - バッグ
   - 収納

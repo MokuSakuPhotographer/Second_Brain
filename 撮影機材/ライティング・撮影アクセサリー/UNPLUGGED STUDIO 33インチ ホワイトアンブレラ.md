@@ -5,6 +5,13 @@ type: umbrella
 メーカー: UNPLUGGED STUDIO
 種類: ホワイトアンブレラ
 サイズ: 33インチ
+aliases:
+  - UNPLUGGED STUDIO 33インチ ホワイトアンブレラ
+  - 33インチ ホワイトアンブレラ
+  - ホワイトアンブレラ
+関連機材:
+  - "[[Codex_Test/撮影機材/ライティング・撮影アクセサリー/Godox S2 ブラケット Bowensマウント|Godox S2]]"
+  - "[[Codex_Test/撮影機材/ライティング・撮影アクセサリー/Godox S3 ブラケット Bowensマウント|Godox S3]]"
 tags:
   - ライティング
   - 撮影
@@ -21,8 +28,8 @@ tags:
 - **カテゴリ**: ライティング・撮影アクセサリー
 - **メーカー**: UNPLUGGED STUDIO
 ## 対応機材
-- [[撮影機材/ライティング・撮影アクセサリー/Godox S2 ブラケット Bowensマウント]]
-- [[撮影機材/ライティング・撮影アクセサリー/Godox S3 ブラケット Bowensマウント]]
+- [[Codex_Test/撮影機材/ライティング・撮影アクセサリー/Godox S2 ブラケット Bowensマウント|Godox S2]]
+- [[Codex_Test/撮影機材/ライティング・撮影アクセサリー/Godox S3 ブラケット Bowensマウント|Godox S3]]
 ## 仕様
 
 - **種類**: ホワイトアンブレラ

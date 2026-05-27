@@ -6,10 +6,12 @@ type: lens
 マウント: Sony E
 対応センサー: フルサイズ
 焦点距離: 55mm
+35mm判換算_APS-C: 未確認
 開放F値: F1.8
 最小F値: F22
 レンズ構成: 5群7枚
 画角: 43°
+画角_APS-C: 未確認
 絞り羽根: 9枚（円形絞り）
 最短撮影距離: 0.50m
 最大撮影倍率: 0.14x
@@ -19,6 +21,7 @@ type: lens
 重量: 281g
 手ブレ補正: なし（レンズ内OSS非搭載）
 AF/MF: AF対応 / MF対応
+AF駆動: 未確認
 防塵防滴: 防塵・防滴に配慮した設計
 発売日: 2013-12-20
 発売年: "2013"
@@ -38,15 +41,15 @@ tags:
   - prime
 売却予定: false
 購入日: 2021-12-18
-購入価格: \68,800
+購入価格: ¥68,800
 source_urls:
   - "公式製品ページ: https://www.sony.jp/ichigan/products/SEL55F18Z/"
   - "公式仕様ページ: https://www.sony-asia.com/electronics/camera-lenses/sel55f18z/specifications"
   - "発売日参考: https://www.sony.jp/ichigan/info2/20131129.html"
 関連機材:
-  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
-  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
-  - "[[撮影機材/カメラ本体/SONY α7C]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ|α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C|α7C]]"
 aliases:
   - SEL55F18Z
   - SONY SEL55F18Z
@@ -160,5 +163,5 @@ SORT file.ctime DESC
 
 ## 関連ノート
 
-- [[撮影機材一覧]]
-- [[撮影機材/カメラ本体/SONY α7Ⅴ]]
+- [[撮影機材一覧|機材一覧]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]

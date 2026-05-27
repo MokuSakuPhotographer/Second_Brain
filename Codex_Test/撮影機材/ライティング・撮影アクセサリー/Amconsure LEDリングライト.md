@@ -4,6 +4,9 @@ type: led_light
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Amconsure
 種類: LEDリングライト
+aliases:
+  - Amconsure LEDリングライト
+  - LEDリングライト
 tags:
   - ライティング
   - 撮影

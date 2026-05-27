@@ -5,6 +5,12 @@ type: filter
 メーカー: HAKUBA
 種類: CPLフィルター
 径: 55mm
+aliases:
+  - HAKUBA 55mm CPL
+  - 55mm CPL
+  - 55mm CPLフィルター
+関連機材:
+  - "[[撮影機材/レンズ/SONY SEL35F18F|SONY 35mm F1.8]]"
 tags:
   - フィルター
   - 撮影
@@ -21,7 +27,7 @@ tags:
 - **カテゴリ**: フィルター関連
 - **メーカー**: HAKUBA
 ## 対応機材
-- [[撮影機材/レンズ/SONY SEL35F18F]]
+- [[撮影機材/レンズ/SONY SEL35F18F|SONY 35mm F1.8]]
 ## 仕様
 
 - **種類**: CPLフィルター

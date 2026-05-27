@@ -35,9 +35,9 @@ Bluetooth: Bluetooth 4.1
 サイズ: 約131.3 x 96.4 x 79.8mm
 重量: 約658g（バッテリー・メモリーカード含む）
 発売日: 2021-12-17
-所有状況:
+所有状況: 所有
 購入日: 2022-12-31
-購入価格: \321,040
+購入価格: ¥321,040
 売却予定: false
 主な用途:
   - ポートレート
@@ -60,13 +60,15 @@ tags:
   - sony
   - alpha
 関連機材:
-  - "[[撮影機材/レンズ/SONY SEL55F18Z|SEL55F18Z]]"
-  - "[[撮影機材/レンズ/SONY SEL35F18F|SEL35F18F]]"
-  - "[[撮影機材/レンズ/SONY SEL90M28G|SEL90M28G]]"
-  - "[[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)|35-100mm]]"
-  - "[[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]"
-  - "[[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2|70-180mm]]"
-  - "[[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|85mm F1.4]]"
+  - "[[撮影機材/レンズ/SONY SEL55F18Z|SONY 55mm F1.8]]"
+  - "[[撮影機材/レンズ/SONY SEL35F18F|SONY 35mm F1.8]]"
+  - "[[撮影機材/レンズ/SONY SEL90M28G|SONY 90mm Macro]]"
+  - "[[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)|TAMRON 35-100mm F2.8]]"
+  - "[[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|TAMRON 16-30mm F2.8]]"
+  - "[[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2|TAMRON 70-180mm F2.8]]"
+  - "[[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|SIGMA 85mm F1.4]]"
+  - "[[撮影機材/バッテリー・充電器/SONY リチャージャブルバッテリーパック NP-FZ100|NP-FZ100]]"
+  - "[[撮影機材/クリーニング・記録媒体・収納/Kingston SDXCカード 256GB Canvas React Plus|Kingston SDXC 256GB]]"
 ---
 
 ## 基本情報
@@ -200,12 +202,12 @@ tags:
 
 | レンズ | 用途・相性 |
 |---|---|
-| [[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]] | ポートレート・イベント用 |
-| [[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]] | 広角スナップ・風景用 |
-| [[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2]] | 望遠ポートレート用 |
-| [[撮影機材/レンズ/SONY SEL55F18Z]] | 軽量スナップ・ポートレート用 |
-| [[撮影機材/レンズ/SONY SEL90M28G]] | マクロ・物撮り用 |
-| [[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN]] | ポートレート用 |
+| [[撮影機材/レンズ/TAMRON 35-100mm F2.8 Di III VXD (Model A078S)|TAMRON 35-100mm F2.8]] | ポートレート・イベント用 |
+| [[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|TAMRON 16-30mm F2.8]] | 広角スナップ・風景用 |
+| [[撮影機材/レンズ/TAMRON 70-180mm F／2.8 Di III VC VXD G2|TAMRON 70-180mm F2.8]] | 望遠ポートレート用 |
+| [[撮影機材/レンズ/SONY SEL55F18Z|SONY 55mm F1.8]] | 軽量スナップ・ポートレート用 |
+| [[撮影機材/レンズ/SONY SEL90M28G|SONY 90mm Macro]] | マクロ・物撮り用 |
+| [[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|SIGMA 85mm F1.4]] | ポートレート用 |
 
 ## 作例・撮影メモ
 
@@ -235,6 +237,6 @@ SORT file.ctime DESC
 
 ## 関連ノート
 
-- [[カメラ機材一覧]]
-- [[レンズ]]
-- [[Codex_Test/撮影機材/カメラ本体/SONY α7Ⅴ]]
+- [[カメラ機材一覧|機材一覧]]
+- [[レンズ|レンズ一覧]]
+- [[Codex_Test/撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]

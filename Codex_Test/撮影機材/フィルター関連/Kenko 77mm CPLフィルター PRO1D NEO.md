@@ -5,6 +5,12 @@ type: filter
 メーカー: Kenko
 種類: CPLフィルター
 径: 77mm
+aliases:
+  - Kenko 77mm CPL
+  - PRO1D NEO CPL
+  - 77mm CPL
+関連機材:
+  - "[[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|SIGMA 85mm F1.4]]"
 tags:
   - フィルター
   - 撮影
@@ -21,7 +27,7 @@ tags:
 - **カテゴリ**: フィルター関連
 - **メーカー**: Kenko
 ## 対応機材
-- [[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN]]
+- [[撮影機材/レンズ/SIGMA Art 85mm F1.4 DG DN|SIGMA 85mm F1.4]]
 ## 仕様
 
 - **種類**: CPLフィルター

@@ -4,6 +4,12 @@ type: holster
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: SPIDER
 種類: カメラホルスター
+aliases:
+  - SPIDER CAMERA HOLSTER
+  - CAMERA HOLSTER
+  - カメラホルスター
+関連機材:
+  - "[[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Carry Speed F3プレート|Carry Speed F3]]"
 tags:
   - 撮影
   - アクセサリー
@@ -19,7 +25,7 @@ tags:
 - **カテゴリ**: 三脚・スタンド・ジンバル・マウント類
 - **メーカー**: SPIDER
 ## 対応機材
-- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Carry Speed F3プレート]]
+- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Carry Speed F3プレート|Carry Speed F3]]
 ## 仕様
 
 - **種類**: カメラホルスター

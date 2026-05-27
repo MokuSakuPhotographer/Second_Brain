@@ -5,9 +5,15 @@ type: camera_body
 メーカー: SONY
 マウント: Sony E
 センサー: フルサイズ
+所有状況: 手放し済
 用途:
   - スナップ
   - 軽量装備
+aliases:
+  - α7C
+  - a7C
+  - SONY α7C
+  - SONY a7C
 tags:
   - カメラ
   - 撮影
@@ -15,6 +21,10 @@ tags:
   - フルサイズ
   - スナップ
   - カメラ本体
+関連機材:
+  - "[[撮影機材/レンズ/SONY SEL35F18F|SONY 35mm F1.8]]"
+  - "[[撮影機材/レンズ/SONY SEL55F18Z|SONY 55mm F1.8]]"
+  - "[[撮影機材/バッテリー・充電器/SONY リチャージャブルバッテリーパック NP-FZ100|NP-FZ100]]"
 ---
 
 # SONY α7C

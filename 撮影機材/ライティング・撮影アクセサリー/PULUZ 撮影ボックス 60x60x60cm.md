@@ -5,6 +5,10 @@ type: light_box
 メーカー: PULUZ
 種類: 撮影ボックス
 サイズ: 60×60×60cm
+aliases:
+  - PULUZ 撮影ボックス 60x60x60cm
+  - 撮影ボックス 60x60x60cm
+  - 撮影ボックス
 tags:
   - ライティング
   - 撮影

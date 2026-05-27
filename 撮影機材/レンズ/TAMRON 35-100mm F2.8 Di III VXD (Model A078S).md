@@ -6,10 +6,12 @@ type: lens
 マウント: Sony E
 対応センサー: フルサイズ
 焦点距離: 35-100mm
+35mm判換算_APS-C: 未確認
 開放F値: F2.8
 最小F値: F22
 レンズ構成: 13群15枚
 画角: 63°26′-24°25′
+画角_APS-C: 未確認
 絞り羽根: 9枚（円形絞り）
 最短撮影距離: 0.22m（広角端） / 0.65m（望遠端）
 最大撮影倍率: 1:3.3（広角端） / 1:5.9（望遠端）
@@ -19,6 +21,7 @@ type: lens
 重量: 565g（Sony Eマウント）
 手ブレ補正: なし（VC非搭載）
 AF/MF: AF対応（VXDリニアモーターフォーカス） / MF対応
+AF駆動: VXDリニアモーターフォーカス
 防塵防滴: 簡易防滴構造 / 防汚コート
 発売日: 2026-03-26（Sony Eマウント）
 発売年: "2026"
@@ -36,15 +39,15 @@ tags:
   - full-frame
 売却予定: false
 購入日: 2026-04-12
-購入価格: \149,600
+購入価格: ¥149,600
 source_urls:
   - "公式製品ページ: https://www.tamron.com/global/consumer/lenses/a078/"
   - "公式仕様ページ: https://www.tamron.com/global/consumer/lenses/a078/spec.html"
 関連機材:
-  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
-  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
-  - "[[撮影機材/カメラ本体/SONY α7C]]"
-  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 67-77mm マグネット式]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ|α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C|α7C]]"
+  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 67-77mm マグネット式|H&Y 67-77mmリング]]"
 aliases:
   - 35-100mm
   - TAMRON 35-100mm F2.8
@@ -103,7 +106,7 @@ aliases:
 
 ### テーブルフォト・物撮り
 - カフェとかでちょっと撮る分にはいいかも
-- 作品撮りでは[[撮影機材/レンズ/SONY SEL35F18F|35mm F1.8]]や[[撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|16-30mm]]があるので優先順位は落ちる
+- 作品撮りでは[[Codex_Test/撮影機材/レンズ/SONY SEL35F18F|SONY 35mm F1.8]]や[[Codex_Test/撮影機材/レンズ/TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)|TAMRON 16-30mm F2.8]]があるので優先順位は落ちる
 
 ## α7Ⅴで使う時のメモ
 
@@ -138,7 +141,7 @@ aliases:
 ```dataview
 LIST
 FROM #photo
-WHERE contains(レンズ, this.file.link)
+WHERE contains(レンズ, this.file.name)
 SORT file.ctime DESC
 ```
 
@@ -163,5 +166,5 @@ SORT file.ctime DESC
 
 ## 関連ノート
 
-- [[カメラ機材一覧]]
-- [[撮影機材/カメラ本体/SONY α7Ⅴ]]
+- [[カメラ機材一覧|機材一覧]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]

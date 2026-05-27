@@ -21,6 +21,7 @@ type: lens
 重量: 280g
 手ブレ補正: なし（レンズ内OSS非搭載 / ボディ内手ブレ補正対応）
 AF/MF: AF対応 / MF対応
+AF駆動: 未確認
 防塵防滴: 防塵・防滴に配慮した設計
 発売日: 2019-08-30
 発売年: "2019"
@@ -39,16 +40,16 @@ tags:
   - prime
 売却予定: false
 購入日: 2020-11-30
-購入価格: \76,270
+購入価格: ¥76,270
 source_urls:
   - "公式仕様ページ: https://www.sony.com/electronics/support/lenses-e-mount-lenses/sel35f18f/specifications"
   - "公式製品ページ: https://www.sony.co.id/en/electronics/camera-lenses/sel35f18f"
   - "発売日参考: https://kakaku.com/item/K0001173506/"
 関連機材:
-  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
-  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
-  - "[[撮影機材/カメラ本体/SONY α7C]]"
-  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 55-77mm マグネット式]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ|α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C|α7C]]"
+  - "[[撮影機材/フィルター関連/H&Y ステップアップリング 55-77mm マグネット式|H&Y 55-77mmリング]]"
 aliases:
   - SEL35F18F
   - SONY SEL35F18F
@@ -163,5 +164,5 @@ SORT file.ctime DESC
 
 ## 関連ノート
 
-- [[カメラ機材一覧]]
-- [[撮影機材/カメラ本体/SONY α7Ⅴ]]
+- [[カメラ機材一覧|機材一覧]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]

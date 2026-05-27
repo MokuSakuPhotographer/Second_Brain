@@ -4,6 +4,13 @@ type: modifier
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Godox
 種類: ドームディフューザー
+aliases:
+  - Godox ML-CD15
+  - ML-CD15
+  - ドームディフューザー
+関連機材:
+  - "[[Codex_Test/撮影機材/ライティング・撮影アクセサリー/GODOX AD100Pro Ⅱ|Godox AD100Pro II]]"
+  - "[[Codex_Test/撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S|Godox TT685S II]]"
 tags:
   - ライティング
   - 撮影
@@ -20,8 +27,8 @@ tags:
 - **カテゴリ**: ライティング・撮影アクセサリー
 - **メーカー**: Godox
 ## 対応機材
-- [[撮影機材/ライティング・撮影アクセサリー/GODOX AD100Pro Ⅱ]]
-- [[撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S]]
+- [[Codex_Test/撮影機材/ライティング・撮影アクセサリー/GODOX AD100Pro Ⅱ|Godox AD100Pro II]]
+- [[Codex_Test/撮影機材/ライティング・撮影アクセサリー/GODOX TT685SⅡ-S|Godox TT685S II]]
 - 
 ## 仕様
 

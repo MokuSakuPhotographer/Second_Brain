@@ -6,10 +6,12 @@ type: lens
 マウント: Sony E
 対応センサー: フルサイズ
 焦点距離: 90mm
+35mm判換算_APS-C: 未確認
 開放F値: F2.8
 最小F値: F22
 レンズ構成: 11群15枚
 画角: 27°
+画角_APS-C: 未確認
 絞り羽根: 9枚（円形絞り）
 最短撮影距離: 0.28m
 最大撮影倍率: 1.0x（等倍）
@@ -19,6 +21,7 @@ type: lens
 重量: 602g
 手ブレ補正: あり（Optical SteadyShot）
 AF/MF: AF対応（DDSSM） / MF対応
+AF駆動: DDSSM
 防塵防滴: 防塵・防滴に配慮した設計
 発売日: 2015-06-26
 発売年: "2015"
@@ -45,15 +48,15 @@ source_urls:
   - "公式製品ページ: https://www.sony.jp/ichigan/products/SEL90M28G/"
   - "公式仕様ページ: https://www.sony-asia.com/electronics/camera-lenses/sel90m28g/specifications"
   - "発売日参考: https://www.sony.jp/CorporateCruise/Press/201506/15-0616/"
+関連機材:
+  - "[[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]"
+  - "[[撮影機材/カメラ本体/SONY α7Ⅳ|α7Ⅳ]]"
+  - "[[撮影機材/カメラ本体/SONY α7C|α7C]]"
 aliases:
   - SONY SEL90M28G
   - SEL90M28G
   - 90mm F2.8
   - 90mm Macro
-関連機材:
-  - "[[撮影機材/カメラ本体/SONY α7Ⅴ]]"
-  - "[[撮影機材/カメラ本体/SONY α7Ⅳ]]"
-  - "[[撮影機材/カメラ本体/SONY α7C]]"
 ---
 
 ## 公式仕様メモ
@@ -160,5 +163,5 @@ SORT file.ctime DESC
 
 ## 関連ノート
 
-- [[撮影機材一覧]]
-- [[撮影機材/カメラ本体/SONY α7Ⅴ]]
+- [[撮影機材一覧|機材一覧]]
+- [[撮影機材/カメラ本体/SONY α7Ⅴ|α7Ⅴ]]
