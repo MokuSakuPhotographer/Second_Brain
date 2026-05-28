@@ -24,7 +24,7 @@ aliases:
   - Win11
   - Windows 11 Home
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Core i9 14900KF|Core i9 14900KF]]"
   - "[[PC環境 - SSD 1TB OS|SSD 1TB]]"
 ---
@@ -43,7 +43,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のメインOS。
+- [[PC環境一覧|PC環境]] のメインOS。
 - OS用ストレージは [[PC環境 - SSD 1TB OS|SSD 1TB]]。
 - エディションは Home。
 - インストール日、ライセンス形態、バージョン番号は未確認。
@@ -67,7 +67,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - SSD 1TB OS|SSD 1TB]]
 - [[PC環境 - Core i9 14900KF|Core i9 14900KF]]
 

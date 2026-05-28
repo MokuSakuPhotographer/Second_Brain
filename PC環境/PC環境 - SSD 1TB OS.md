@@ -19,7 +19,7 @@ aliases:
   - SSD 1TB
   - 1TB SSD
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Windows 11 Home|Windows 11 Home]]"
 ---
 
@@ -38,7 +38,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のOS用ストレージ。
+- [[PC環境一覧|PC環境]] のOS用ストレージ。
 - [[PC環境 - Windows 11 Home|Windows 11 Home]] を入れているストレージとして管理。
 - 正確な型番、接続方式、空き容量、パーティション構成は未確認。
 
@@ -60,7 +60,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Windows 11 Home|Windows 11 Home]]
 - [[PC環境 - SSD 2TB|SSD 2TB]]
 - [[PC環境 - HDD 8TB|HDD 8TB]]

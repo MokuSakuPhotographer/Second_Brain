@@ -29,7 +29,7 @@ aliases:
   - BenQ モニター
   - サブモニター
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - GeForce RTX 4090|RTX 4090]]"
   - "[[PC環境 - Pixio Prime NEO 27インチ WQHD|Pixio Prime NEO]]"
 ---
@@ -50,7 +50,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のモニター2。
+- [[PC環境一覧|PC環境]] のモニター2。
 - サブ画面として使用。
 - 接続先GPUは [[PC環境 - GeForce RTX 4090|RTX 4090]]。
 - 具体的な表示用途、色設定、配置位置は未確認。
@@ -78,7 +78,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - GeForce RTX 4090|RTX 4090]]
 - [[PC環境 - Pixio Prime NEO 27インチ WQHD|Pixio Prime NEO]]
 

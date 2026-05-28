@@ -28,7 +28,7 @@ aliases:
   - Logicool MX Keys
   - メインキーボード
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Logicool MX Master 3S|MX Master 3S]]"
 ---
 
@@ -46,7 +46,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のメインキーボード。
+- [[PC環境一覧|PC環境]] のメインキーボード。
 - 文章入力、ショートカット操作、制作アプリ操作に使用。
 - 接続方式、配列、ファンクションキー設定、Logicool Options+設定は未確認。
 
@@ -71,7 +71,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Logicool MX Master 3S|MX Master 3S]]
 
 ## メモ

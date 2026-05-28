@@ -28,13 +28,13 @@ aliases:
   - NVIDIA GeForce RTX 4090
   - GeForce 4090
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Core i9 14900KF|Core i9 14900KF]]"
   - "[[PC環境 - Pixio Prime NEO 27インチ WQHD|Pixio Prime NEO]]"
   - "[[PC環境 - BenQ EW2780U|BenQ EW2780U]]"
-  - "[[Blender|Blender]]"
-  - "[[Adobe Premiere Pro|Premiere Pro]]"
-  - "[[Adobe After Effects|After Effects]]"
+  - "[[撮影機材/ソフトウェア・編集機材/Blender|Blender]]"
+  - "[[撮影機材/ソフトウェア・編集機材/Adobe Premiere Pro|Premiere Pro]]"
+  - "[[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]]"
 ---
 
 # GeForce RTX 4090
@@ -51,8 +51,8 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のメインGPU。
-- [[Blender|Blender]]、[[Adobe Premiere Pro|Premiere Pro]]、[[Adobe After Effects|After Effects]] などの制作作業で使用。
+- [[PC環境一覧|PC環境]] のメインGPU。
+- [[撮影機材/ソフトウェア・編集機材/Blender|Blender]]、[[撮影機材/ソフトウェア・編集機材/Adobe Premiere Pro|Premiere Pro]]、[[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]] などの制作作業で使用。
 - 接続モニターは [[PC環境 - Pixio Prime NEO 27インチ WQHD|Pixio Prime NEO]] と [[PC環境 - BenQ EW2780U|BenQ EW2780U]]。
 - ボードメーカー、接続端子、ドライバ設定、電源構成は未確認。
 
@@ -76,11 +76,11 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Core i9 14900KF|Core i9 14900KF]]
 - [[PC環境 - Pixio Prime NEO 27インチ WQHD|Pixio Prime NEO]]
 - [[PC環境 - BenQ EW2780U|BenQ EW2780U]]
-- [[Blender|Blender]]
+- [[撮影機材/ソフトウェア・編集機材/Blender|Blender]]
 
 ## メモ
 

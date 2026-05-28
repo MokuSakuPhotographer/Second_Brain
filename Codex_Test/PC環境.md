@@ -31,12 +31,12 @@
 
 ## 関連ソフトウェア
 
-- [[Adobe Lightroom Classic|Lightroom Classic]]
-- [[Adobe Photoshop|Photoshop]]
-- [[Adobe Premiere Pro|Premiere Pro]]
-- [[Adobe After Effects|After Effects]]
-- [[Adobe Illustrator|Illustrator]]
-- [[Blender|Blender]]
+- [[Codex_Test/撮影機材/ソフトウェア/Adobe Lightroom Classic|Lightroom Classic]]
+- [[Codex_Test/撮影機材/ソフトウェア/Adobe Photoshop|Photoshop]]
+- [[Codex_Test/撮影機材/ソフトウェア/Adobe Premiere Pro|Premiere Pro]]
+- [[Codex_Test/撮影機材/ソフトウェア/Adobe After Effects|After Effects]]
+- [[Codex_Test/撮影機材/ソフトウェア/Adobe Illustrator|Illustrator]]
+- [[Codex_Test/撮影機材/ソフトウェア/Blender|Blender]]
 
 ## メモ
 

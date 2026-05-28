@@ -27,7 +27,7 @@ aliases:
   - Logicool MX Master
   - メインマウス
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Logicool MX KEYS S KX800|MX KEYS S]]"
 ---
 
@@ -45,7 +45,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のメインマウス。
+- [[PC環境一覧|PC環境]] のメインマウス。
 - 制作作業、ブラウズ、ファイル管理などの日常操作に使用。
 - 接続方式、ボタン割り当て、Logicool Options+設定は未確認。
 
@@ -70,7 +70,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Logicool MX KEYS S KX800|MX KEYS S]]
 
 ## メモ

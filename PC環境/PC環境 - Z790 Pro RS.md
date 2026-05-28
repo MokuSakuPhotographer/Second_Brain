@@ -26,7 +26,7 @@ aliases:
   - Z790 Pro RS
   - マザーボード
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Core i9 14900KF|Core i9 14900KF]]"
   - "[[PC環境 - RAM 64GB|RAM 64GB]]"
   - "[[PC環境 - GeForce RTX 4090|RTX 4090]]"
@@ -47,7 +47,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のマザーボード。
+- [[PC環境一覧|PC環境]] のマザーボード。
 - [[PC環境 - Core i9 14900KF|Core i9 14900KF]]、[[PC環境 - RAM 64GB|RAM 64GB]]、[[PC環境 - GeForce RTX 4090|RTX 4090]] と組み合わせて使用。
 - BIOSバージョン、メモリ設定、ストレージ接続位置、拡張カード構成は未確認。
 
@@ -69,7 +69,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Core i9 14900KF|Core i9 14900KF]]
 - [[PC環境 - RAM 64GB|RAM 64GB]]
 - [[PC環境 - GeForce RTX 4090|RTX 4090]]

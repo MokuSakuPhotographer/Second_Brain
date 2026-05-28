@@ -31,7 +31,7 @@ aliases:
   - i9-14900KF
   - 14900KF
 関連項目:
-  - "[[PC環境|PC環境]]"
+  - "[[PC環境一覧|PC環境]]"
   - "[[PC環境 - Z790 Pro RS|Z790 Pro RS]]"
   - "[[PC環境 - RAM 64GB|RAM 64GB]]"
   - "[[PC環境 - GeForce RTX 4090|RTX 4090]]"
@@ -51,7 +51,7 @@ aliases:
 
 ## 使用詳細
 
-- [[PC環境|PC環境]] のメインCPU。
+- [[PC環境一覧|PC環境]] のメインCPU。
 - 写真現像、動画編集、3D制作などの制作作業で使用。
 - 組み合わせるマザーボードは [[PC環境 - Z790 Pro RS|Z790 Pro RS]]。
 - CPUクーラー、電力制限、BIOS設定、温度運用は未確認。
@@ -77,7 +77,7 @@ aliases:
 
 ## 関連項目
 
-- [[PC環境|PC環境]]
+- [[PC環境一覧|PC環境]]
 - [[PC環境 - Z790 Pro RS|Z790 Pro RS]]
 - [[PC環境 - RAM 64GB|RAM 64GB]]
 - [[PC環境 - GeForce RTX 4090|RTX 4090]]

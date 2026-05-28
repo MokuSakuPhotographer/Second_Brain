@@ -22,6 +22,8 @@ ppi: 264
 容量: 128GB
 カラー: スペースグレイ
 用途:
+  - 写真現像・写真管理
+  - 言語学習
 tags:
   - PC環境
   - Apple
@@ -34,6 +36,7 @@ aliases:
   - Apple iPad Pro 12.9
   - MHNF3J/A
   - A2378
+  - iPad Pro
 関連項目:
   - "[[PC環境一覧|PC環境]]"
 source_urls:
