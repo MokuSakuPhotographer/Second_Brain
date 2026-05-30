@@ -15,7 +15,7 @@ type: device
 ppi: 460
 通信: 5G / Wi-Fi 6E / Bluetooth 5.3
 端子: USB-C
-購入日:
+購入日: 2023-09-01
 購入価格:
 所有状況: 所有
 容量: 256GB
