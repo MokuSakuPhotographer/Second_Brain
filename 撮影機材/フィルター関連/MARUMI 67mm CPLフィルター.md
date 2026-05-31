@@ -20,6 +20,8 @@ tags:
   - MARUMI
   - フィルター関連
 ---
+![[MARUMI DHG CPL 67mm.jpg|400]]
+
 
 # MARUMI 67mm CPLフィルター
 

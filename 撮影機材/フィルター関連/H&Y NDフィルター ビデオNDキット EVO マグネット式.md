@@ -19,6 +19,8 @@ tags:
   - HアンドY
   - フィルター関連
 ---
+![[H&Y EVO Magnetic Variable ND CPL Kit.jpg|400]]
+
 
 # H&Y NDフィルター ビデオNDキット EVO マグネット式
 

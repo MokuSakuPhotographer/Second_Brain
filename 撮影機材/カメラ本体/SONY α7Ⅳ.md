@@ -71,6 +71,8 @@ tags:
   - "[[撮影機材/クリーニング・記録媒体・収納/Kingston SDXCカード 256GB Canvas React Plus|Kingston SDXC 256GB]]"
 ---
 
+![[SONY ILCE-7M4.jpg|400]]
+
 ## 基本情報
 
 | 項目 | 内容 |

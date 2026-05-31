@@ -19,6 +19,8 @@ tags:
   - Godox
   - ライティング撮影アクセサリー
 ---
+![[Godox S3 Bracket Bowens.png|400]]
+
 
 # Godox S3 ブラケット Bowensマウント
 

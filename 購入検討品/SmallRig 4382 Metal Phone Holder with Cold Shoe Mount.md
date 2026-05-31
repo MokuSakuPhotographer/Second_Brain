@@ -37,6 +37,8 @@ source_urls:
   - "仕様参考: https://www.bhphotovideo.com/c/product/1800617-REG/smallrig_4382_metal_phone_support_with.html/overview"
 ---
 
+![[SmallRig 4382.jpg|400]]
+
 # SmallRig 4382 Metal Phone Holder with Cold Shoe Mount
 
 #撮影機材 #購入検討 #SmallRig #スマホホルダー

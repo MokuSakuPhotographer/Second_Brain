@@ -17,6 +17,8 @@ tags:
   - Godox
   - ライティング撮影アクセサリー
 ---
+![[Godox ML-CD15.jpg|400]]
+
 
 # Godox ML-CD15
 

@@ -15,6 +15,8 @@ aliases:
   - Selens 撮影用 レフ板 80cm
   - レフ板
 ---
+![[Selens 80cm Reflector.jpg|400]]
+
 
 # Selens 撮影用 レフ板 80cm
 

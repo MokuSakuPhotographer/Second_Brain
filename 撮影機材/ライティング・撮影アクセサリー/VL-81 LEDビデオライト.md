@@ -17,6 +17,8 @@ tags:
   - VIJIM
   - ライティング撮影アクセサリー
 ---
+![[VL-81 LED Video Light.webp|400]]
+
 
 # VL-81 LEDビデオライト
 

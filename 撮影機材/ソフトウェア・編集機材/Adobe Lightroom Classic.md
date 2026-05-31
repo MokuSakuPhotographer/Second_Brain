@@ -23,6 +23,8 @@ aliases:
 source_urls:
   - "公式ヘルプ: https://helpx.adobe.com/lightroom-classic/get-started.html"
 ---
+![[Adobe Lightroom Classic icon.svg|400]]
+
 
 # Adobe Lightroom Classic
 

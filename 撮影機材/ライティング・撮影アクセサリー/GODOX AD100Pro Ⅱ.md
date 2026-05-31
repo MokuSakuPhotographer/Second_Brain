@@ -25,6 +25,8 @@ aliases:
   - GODOX AD100Pro Ⅱ
   - AD100Pro Ⅱ
 ---
+![[Godox AD100Pro II.jpg|400]]
+
 
 # GODOX AD100Pro Ⅱ
 

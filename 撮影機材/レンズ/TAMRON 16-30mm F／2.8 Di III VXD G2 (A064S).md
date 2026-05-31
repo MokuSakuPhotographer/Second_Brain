@@ -55,6 +55,8 @@ aliases:
   - TAMRON 16-30mm F2.8
 ---
 
+![[TAMRON A064.webp|400]]
+
 
 ## 公式仕様メモ
 

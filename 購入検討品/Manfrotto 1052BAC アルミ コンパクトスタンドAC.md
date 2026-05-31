@@ -43,6 +43,8 @@ source_urls:
   - "仕様参考: https://www.bhphotovideo.com/c/product/609058-REG/Manfrotto_1052BAC_1052BAC_Alu_Air_Cushioned.html/specs"
 ---
 
+![[Manfrotto 1052BAC.jpg|400]]
+
 # Manfrotto 1052BAC アルミ コンパクトスタンドAC
 
 #撮影機材 #購入検討 #Manfrotto #ライトスタンド #照明

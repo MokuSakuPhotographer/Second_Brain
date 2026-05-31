@@ -13,6 +13,8 @@ tags:
   - Amconsure
   - ライティング撮影アクセサリー
 ---
+![[Amconsure LED Ring Light.jpg|400]]
+
 
 # Amconsure LEDリングライト
 

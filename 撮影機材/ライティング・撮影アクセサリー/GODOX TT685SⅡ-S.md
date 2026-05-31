@@ -29,6 +29,8 @@ aliases:
   - GODOX TT685SⅡ-S
   - TT685S
 ---
+![[Godox TT685II-S.jpg|400]]
+
 
 # GODOX TT685SⅡ-S
 

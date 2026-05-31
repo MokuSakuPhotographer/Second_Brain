@@ -33,6 +33,8 @@ aliases:
   - Godox X3S
   - X3S
 ---
+![[Godox X3S Trigger.jpg|400]]
+
 
 # Godox X3S
 

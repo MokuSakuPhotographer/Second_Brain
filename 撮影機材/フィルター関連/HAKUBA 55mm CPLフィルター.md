@@ -17,6 +17,8 @@ tags:
   - HAKUBA
   - フィルター関連
 ---
+![[HAKUBA XC-PRO 55mm CPL.jpg|400]]
+
 
 # HAKUBA 55mm CPLフィルター
 

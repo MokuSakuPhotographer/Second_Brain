@@ -59,6 +59,8 @@ aliases:
   - 90mm Macro
 ---
 
+![[SONY SEL90M28G.jpg|400]]
+
 ## 公式仕様メモ
 
 - 90mm F2.8のフルサイズEマウント中望遠マクロ。

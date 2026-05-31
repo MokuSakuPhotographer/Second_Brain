@@ -15,6 +15,8 @@ tags:
   - PULUZ
   - ライティング撮影アクセサリー
 ---
+![[PULUZ 60cm Photo Studio Box.jpg|400]]
+
 
 # PULUZ 撮影ボックス 60x60x60cm
 

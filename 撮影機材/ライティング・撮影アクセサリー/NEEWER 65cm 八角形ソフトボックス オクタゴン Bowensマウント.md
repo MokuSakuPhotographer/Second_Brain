@@ -19,6 +19,8 @@ tags:
   - NEEWER
   - ライティング撮影アクセサリー
 ---
+![[NEEWER 65cm Octagonal Softbox.jpg|400]]
+
 
 # NEEWER 65cm 八角形ソフトボックス オクタゴン Bowensマウント
 

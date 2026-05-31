@@ -45,6 +45,8 @@ source_urls:
   - "仕様参考: https://www.bhphotovideo.com/c/product/1777494-REG/neewer_66600280_aluminum_conical_snoot_kit.html/overview"
 ---
 
+![[NEEWER B0788PD9X3.jpg|400]]
+
 # NEEWER 円錐形スヌートキット Bowensマウント B0788PD9X3
 
 #撮影機材 #購入検討 #NEEWER #ライティング #Bowens #スヌート

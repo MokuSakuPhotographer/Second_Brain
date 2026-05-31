@@ -34,6 +34,8 @@ source_urls:
   - "仕様参考: https://kakaku.com/item/K0001092382/spec/"
 ---
 
+![[Sony SEL24F14GM.jpg|400]]
+
 # Sony FE 24mm F1.4 GM SEL24F14GM
 
 #撮影機材 #購入検討 #Sony #レンズ #Eマウント #GM

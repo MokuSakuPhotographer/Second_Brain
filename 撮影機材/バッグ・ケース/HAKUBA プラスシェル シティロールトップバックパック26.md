@@ -14,6 +14,8 @@ tags:
   - 撮影
   - バッグケース
 ---
+![[HAKUBA Plus Shell City Rolltop Backpack 26 G05.jpg|400]]
+
 
 # HAKUBA プラスシェル シティロールトップバックパック26
 

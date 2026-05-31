@@ -17,6 +17,8 @@ tags:
   - 撮影
   - バッグケース
 ---
+![[BEACO Rain Cover L.jpg|400]]
+
 
 # BEACO レインカバー Lサイズ
 

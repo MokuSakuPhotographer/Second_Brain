@@ -37,6 +37,8 @@ source_urls:
   - "仕様参考: https://www.bhphotovideo.com/c/product/1742675-REG/smallrig_3984_foldable_l_bracket_for_sony.html"
 ---
 
+![[SmallRig 3984.jpg|400]]
+
 # SmallRig 3984 Foldable L-Bracket for Sony α7 IV α7R V α7S III
 
 #撮影機材 #購入検討 #SmallRig #Lブラケット

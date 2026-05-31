@@ -14,6 +14,8 @@ tags:
   - 撮影
   - バッグケース
 ---
+![[HAKUBA Plus Shell City03 Messenger L.jpg|400]]
+
 
 # HAKUBA プラスシェル メッセンジャー L
 

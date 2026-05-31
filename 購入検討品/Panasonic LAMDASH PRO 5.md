@@ -38,6 +38,8 @@ source_urls:
   - "公式仕様例 ES-L571D: https://panasonic.jp/shaver/products/ES-L571D.html"
 ---
 
+![[Panasonic LAMDASH PRO 5.jpg|400]]
+
 # Panasonic LAMDASH PRO 5
 
 #購入検討 #生活家電 #シェーバー #Panasonic #LAMDASH

@@ -18,6 +18,8 @@ tags:
   - UNPLUGGEDSTUDIO
   - ライティング撮影アクセサリー
 ---
+![[UNPLUGGED STUDIO UN-030 White Umbrella.jpg|400]]
+
 
 # UNPLUGGED STUDIO 33インチ ホワイトアンブレラ
 

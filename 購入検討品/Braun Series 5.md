@@ -34,6 +34,8 @@ source_urls:
   - "Series 5+公式情報: https://www.braun.jp/ja-jp/male-grooming/shavers-for-men/series-5plus-levant"
 ---
 
+![[Braun Series 5.jpg|400]]
+
 # Braun Series 5
 
 #購入検討 #生活家電 #シェーバー #Braun

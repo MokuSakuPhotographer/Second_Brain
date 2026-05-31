@@ -55,6 +55,8 @@ aliases:
   - 85mm F1.4
 ---
 
+![[SIGMA 85mm F1.4 DG DN Art.png|400]]
+
 ## 公式仕様メモ
 
 - 85mm F1.4のフルサイズミラーレス用Art単焦点。

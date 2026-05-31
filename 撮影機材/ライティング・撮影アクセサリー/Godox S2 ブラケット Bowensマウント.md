@@ -19,6 +19,8 @@ tags:
   - Godox
   - ライティング撮影アクセサリー
 ---
+![[Godox S2 Bracket Bowens.jpg|400]]
+
 
 # Godox S2 ブラケット Bowensマウント
 

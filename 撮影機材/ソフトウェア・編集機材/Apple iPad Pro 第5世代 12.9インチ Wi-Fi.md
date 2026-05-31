@@ -46,6 +46,8 @@ source_urls:
   - "型番参考: https://kakaku.com/item/K0001350132/spec/"
 ---
 
+![[Apple iPad Pro 12.9 5th gen.png|400]]
+
 # Apple iPad Pro 第5世代 12.9インチ Wi-Fi
 
 #PC環境 #Apple #iPad #周辺機器

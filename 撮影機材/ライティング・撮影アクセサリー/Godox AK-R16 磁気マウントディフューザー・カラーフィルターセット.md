@@ -16,6 +16,8 @@ tags:
   - Godox
   - ライティング撮影アクセサリー
 ---
+![[Godox AK-R16 Color Gel Holder.jpg|400]]
+
 
 # Godox AK-R16 磁気マウントディフューザー・カラーフィルターセット
 

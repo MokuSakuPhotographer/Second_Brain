@@ -41,6 +41,8 @@ source_urls:
   - "型番参考: https://www.suruga-ya.jp/product/detail/719013212"
 ---
 
+![[Apple iPhone 15 Pro.png|400]]
+
 # Apple iPhone 15 Pro 256GB
 
 #PC環境 #Apple #iPhone #周辺機器

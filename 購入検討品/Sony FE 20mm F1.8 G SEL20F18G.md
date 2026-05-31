@@ -33,6 +33,8 @@ source_urls:
   - "仕様参考: https://kakaku.com/item/K0001237298/spec/"
 ---
 
+![[Sony SEL20F18G.jpg|400]]
+
 # Sony FE 20mm F1.8 G SEL20F18G
 
 #撮影機材 #購入検討 #Sony #レンズ #Eマウント

@@ -14,6 +14,8 @@ tags:
   - 撮影
   - バッグケース
 ---
+![[HAKUBA Plus Shell Shoulder Bag M.jpg|400]]
+
 
 # HAKUBA プラスシェル ショルダーバッグ M
 

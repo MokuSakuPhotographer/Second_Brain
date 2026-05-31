@@ -22,6 +22,8 @@ aliases:
 source_urls:
   - "公式製品情報: https://www.adobe.com/products/illustrator.html"
 ---
+![[Adobe Illustrator icon.svg|400]]
+
 
 # Adobe Illustrator
 

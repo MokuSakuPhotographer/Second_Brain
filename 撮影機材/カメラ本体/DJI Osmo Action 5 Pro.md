@@ -44,6 +44,8 @@ tags:
   - カメラ本体
 ---
 
+![[DJI Osmo Action 5 Pro.png|400]]
+
 # DJI Osmo Action 5 Pro
 
 #カメラ #撮影 #DJI #動画 #カメラ本体

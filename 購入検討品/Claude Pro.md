@@ -31,6 +31,8 @@ source_urls:
   - "プラン比較: https://support.claude.com/en/articles/11049762-choose-a-claude-plan"
 ---
 
+![[Claude Pro.jpg|400]]
+
 # Claude Pro
 
 #購入検討 #AI #Claude #サブスクリプション

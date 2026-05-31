@@ -16,6 +16,8 @@ tags:
   - 収納
 ---
 
+![[Manfrotto Advanced Rolling Bag III.jpg|400]]
+
 # Manfrotto カメラローラーバッグ Advanced III
 ## 基本情報
 

@@ -23,6 +23,8 @@ source_urls:
   - "公式要件: https://www.blender.org/download/requirements/"
 ---
 
+![[Blender icon.png|400]]
+
 # Blender
 
 #ソフトウェア #3D #Blender

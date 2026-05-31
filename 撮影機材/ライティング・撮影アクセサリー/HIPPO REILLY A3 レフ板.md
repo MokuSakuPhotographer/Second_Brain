@@ -16,6 +16,8 @@ aliases:
   - HIPPO REILLY A3 レフ板
   - A3レフ板
 ---
+![[HIPPO REILLY A3 Reflector.jpg|400]]
+
 
 # HIPPO REILLY A3 レフ板
 

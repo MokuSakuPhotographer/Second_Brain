@@ -34,6 +34,8 @@ source_urls:
   - "仕様参考: https://kakaku.com/camera/camera-others/itemlist.aspx?pdf_so=b2"
 ---
 
+![[SLIK SLARM2.jpg|400]]
+
 # SLIK スライディングアームII SLARM2
 
 #撮影機材 #購入検討 #SLIK #三脚アクセサリー #俯瞰撮影

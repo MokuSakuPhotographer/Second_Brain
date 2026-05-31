@@ -34,6 +34,8 @@ source_urls:
   - "仕様参考: https://www.bhphotovideo.com/c/product/1702922-REG/smallrig_3737_ra_s280a_ac_light_stand.html/specs"
 ---
 
+![[SmallRig 3737.jpg|400]]
+
 # SmallRig RA-S280A Air-Cushioned Light Stand with Arm 3737
 
 #撮影機材 #購入検討 #SmallRig #ライトスタンド #照明

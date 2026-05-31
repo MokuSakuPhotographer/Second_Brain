@@ -5,4 +5,5 @@
 
 ---
 - iPhone18シリーズ
-- 
+- BROSH mini ORIGINAL POMADE 40g ポマード ミディアムホールド
+-  PGYTECH MagFlex スマートフォンスタンド (クラシック ブラック)
