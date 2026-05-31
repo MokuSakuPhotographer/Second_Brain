@@ -13,11 +13,14 @@ type: pc_part
 公式仕様確認: 済
 型番候補: PX277Prime Neo
 パネル: Fast IPS / 非光沢
+色域: 119.35% sRGB
+HDR: 対応
 応答速度: 1ms GTG
 重量: 5.4kg
 本体サイズ: 61.2 x 24.2 x 50.5cm
 source_urls:
   - "公式製品情報: https://pixiogaming.jp/blogs/news/px277pn"
+  - "公式商品ページ: https://pixiogaming.jp/products/px277pn"
 tags:
   - PC環境
   - モニター
@@ -64,6 +67,8 @@ aliases:
 | リフレッシュレート | 180Hz |
 | 応答速度 | 1ms GTG |
 | パネル | Fast IPS / 非光沢 |
+| 色域 | 119.35% sRGB |
+| HDR | 対応 |
 | サイズ | 61.2 x 24.2 x 50.5cm |
 | 重量 | 5.4kg |
 
