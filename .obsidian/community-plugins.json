@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-image-gallery",
   "obisidian-note-linker",
-  "ics"
+  "ics",
+  "obsidian-git"
 ]
