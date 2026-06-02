@@ -1,57 +1,50 @@
----
+﻿---
 type: software
-名前: Adobe Premiere Pro
-カテゴリ: ソフトウェア
-メーカー: Adobe
-用途: 動画編集
-利用形態: サブスクリプション
-所有状況: 未確認
-tags:
-  - ソフトウェア
-  - 動画編集
-  - Adobe
+蜷榊燕: Adobe Premiere Pro
+繧ｫ繝・ざ繝ｪ: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+繝｡繝ｼ繧ｫ繝ｼ: Adobe
+逕ｨ騾・ 蜍慕判邱ｨ髮・蛻ｩ逕ｨ蠖｢諷・ 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
+謇譛臥憾豕・ 譛ｪ遒ｺ隱・tags:
+  - 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+  - 蜍慕判邱ｨ髮・  - Adobe
 aliases:
   - Premiere Pro
   - Pr
   - Adobe Pr
-関連機材:
-  - "[[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]]"
-  - "[[撮影機材/ソフトウェア・編集機材/Adobe Photoshop|Photoshop]]"
+髢｢騾｣讖滓攝:
+  - "[[Adobe After Effects|After Effects]]"
+  - "[[Adobe Photoshop|Photoshop]]"
   - "[[DJI Osmo Action 5 Pro|DJI Action 5 Pro]]"
   - "[[SONY α7Ⅴ|α7Ⅴ]]"
   - "[[SONY α7Ⅳ|α7Ⅳ]]"
-  - "[[PC環境一覧|PC環境]]"
+  - "[[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]"
 source_urls:
-  - "公式製品情報: https://www.adobe.com/products/premiere.html"
+  - "蜈ｬ蠑剰｣ｽ蜩∵ュ蝣ｱ: https://www.adobe.com/products/premiere.html"
 ---
 ![[Adobe Premiere Pro icon.svg|400]]
 
 
 # Adobe Premiere Pro
 
-#ソフトウェア #動画編集 #Adobe
+#繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢ #蜍慕判邱ｨ髮・#Adobe
 
-## 基本情報
+## 蝓ｺ譛ｬ諠・ｱ
 
-- **カテゴリ**: ソフトウェア
-- **メーカー**: Adobe
-- **用途**: 動画編集
-- **所有状況**: 未確認
+- **繧ｫ繝・ざ繝ｪ**: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+- **繝｡繝ｼ繧ｫ繝ｼ**: Adobe
+- **逕ｨ騾・*: 蜍慕判邱ｨ髮・- **謇譛臥憾豕・*: 譛ｪ遒ｺ隱・
+## 髢｢騾｣讖滓攝
 
-## 関連機材
-
-- [[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]]
-- [[撮影機材/ソフトウェア・編集機材/Adobe Photoshop|Photoshop]]
+- [[Adobe After Effects|After Effects]]
+- [[Adobe Photoshop|Photoshop]]
 - [[DJI Osmo Action 5 Pro|DJI Action 5 Pro]]
 - [[SONY α7Ⅴ|α7Ⅴ]]
 - [[SONY α7Ⅳ|α7Ⅳ]]
-- [[PC環境一覧|PC環境]]
+- [[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]
 
-## 仕様
+## 莉墓ｧ・
+- **蛻ｩ逕ｨ蠖｢諷・*: 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
+- **荳ｻ縺ｪ逕ｨ騾・*: 蜍慕判邱ｨ髮・√き繝ｩ繝ｼ隱ｿ謨ｴ縲∵嶌縺榊・縺・
+## 繝｡繝｢
 
-- **利用形態**: サブスクリプション
-- **主な用途**: 動画編集、カラー調整、書き出し
-
-## メモ
-
-- インストール状況と使用バージョンは未確認。
+- 繧､繝ｳ繧ｹ繝医・繝ｫ迥ｶ豕√→菴ｿ逕ｨ繝舌・繧ｸ繝ｧ繝ｳ縺ｯ譛ｪ遒ｺ隱阪・

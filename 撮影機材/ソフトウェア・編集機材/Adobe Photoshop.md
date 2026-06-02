@@ -1,53 +1,49 @@
----
+﻿---
 type: software
-名前: Adobe Photoshop
-カテゴリ: ソフトウェア
-メーカー: Adobe
-用途: 写真編集・画像加工
-利用形態: サブスクリプション
-所有状況: 未確認
-tags:
-  - ソフトウェア
-  - 写真編集
-  - Adobe
+蜷榊燕: Adobe Photoshop
+繧ｫ繝・ざ繝ｪ: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+繝｡繝ｼ繧ｫ繝ｼ: Adobe
+逕ｨ騾・ 蜀咏悄邱ｨ髮・・逕ｻ蜒丞刈蟾･
+蛻ｩ逕ｨ蠖｢諷・ 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
+謇譛臥憾豕・ 譛ｪ遒ｺ隱・tags:
+  - 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+  - 蜀咏悄邱ｨ髮・  - Adobe
 aliases:
   - Photoshop
   - PS
   - Adobe PS
-関連機材:
-  - "[[撮影機材/ソフトウェア・編集機材/Adobe Lightroom Classic|Lightroom Classic]]"
-  - "[[撮影機材/ソフトウェア・編集機材/Adobe Illustrator|Illustrator]]"
-  - "[[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]]"
-  - "[[PC環境一覧|PC環境]]"
+髢｢騾｣讖滓攝:
+  - "[[Adobe Lightroom Classic|Lightroom Classic]]"
+  - "[[Adobe Illustrator|Illustrator]]"
+  - "[[Adobe After Effects|After Effects]]"
+  - "[[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]"
 source_urls:
-  - "公式製品情報: https://www.adobe.com/products/photoshop.html"
+  - "蜈ｬ蠑剰｣ｽ蜩∵ュ蝣ｱ: https://www.adobe.com/products/photoshop.html"
 ---
 ![[Adobe Photoshop icon.svg|400]]
 
 
 # Adobe Photoshop
 
-#ソフトウェア #写真編集 #Adobe
+#繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢ #蜀咏悄邱ｨ髮・#Adobe
 
-## 基本情報
+## 蝓ｺ譛ｬ諠・ｱ
 
-- **カテゴリ**: ソフトウェア
-- **メーカー**: Adobe
-- **用途**: 写真編集・画像加工
-- **所有状況**: 未確認
+- **繧ｫ繝・ざ繝ｪ**: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
+- **繝｡繝ｼ繧ｫ繝ｼ**: Adobe
+- **逕ｨ騾・*: 蜀咏悄邱ｨ髮・・逕ｻ蜒丞刈蟾･
+- **謇譛臥憾豕・*: 譛ｪ遒ｺ隱・
+## 髢｢騾｣讖滓攝
 
-## 関連機材
+- [[Adobe Lightroom Classic|Lightroom Classic]]
+- [[Adobe Illustrator|Illustrator]]
+- [[Adobe After Effects|After Effects]]
+- [[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]
 
-- [[撮影機材/ソフトウェア・編集機材/Adobe Lightroom Classic|Lightroom Classic]]
-- [[撮影機材/ソフトウェア・編集機材/Adobe Illustrator|Illustrator]]
-- [[撮影機材/ソフトウェア・編集機材/Adobe After Effects|After Effects]]
-- [[PC環境一覧|PC環境]]
+## 莉墓ｧ・
+- **蛻ｩ逕ｨ蠖｢諷・*: 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
+- **荳ｻ縺ｪ逕ｨ騾・*: 繝ｬ繧ｿ繝・メ縲∝粋謌舌∫判蜒丞刈蟾･
 
-## 仕様
+## 繝｡繝｢
 
-- **利用形態**: サブスクリプション
-- **主な用途**: レタッチ、合成、画像加工
-
-## メモ
-
-- インストール状況と使用バージョンは未確認。
+- 繧､繝ｳ繧ｹ繝医・繝ｫ迥ｶ豕√→菴ｿ逕ｨ繝舌・繧ｸ繝ｧ繝ｳ縺ｯ譛ｪ遒ｺ隱阪・
