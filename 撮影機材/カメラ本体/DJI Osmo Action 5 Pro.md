@@ -1,4 +1,4 @@
----
+﻿---
 type: camera_body
 メーカー: DJI
 製品名: Osmo Action 5 Pro

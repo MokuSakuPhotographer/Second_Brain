@@ -1,4 +1,4 @@
----
+﻿---
 type: memory_card
 名前: SanDisk microSD カード 256GB
 カテゴリ: クリーニング・記録媒体・収納

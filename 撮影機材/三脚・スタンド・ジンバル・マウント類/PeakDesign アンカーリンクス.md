@@ -1,12 +1,12 @@
----
+﻿---
 type: strap_accessory
 名前: PeakDesign アンカーリンクス
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: Peak Design
 種類: ストラップアクセサリー
 関連機材:
-  - "[[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Peak Design カフ リストストラップ|Peak Design カフ]]"
-  - "[[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Cobby カメラストラップ|Cobby ストラップ]]"
+  - "[[Peak Design カフ リストストラップ|Peak Design カフ]]"
+  - "[[Cobby カメラストラップ|Cobby ストラップ]]"
 tags:
   - 撮影
   - アクセサリー
@@ -26,8 +26,8 @@ aliases:
 - **カテゴリ**: 三脚・スタンド・ジンバル・マウント類
 - **メーカー**: Peak Design
 ## 対応機材
-- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Peak Design カフ リストストラップ|Peak Design カフ]]
-- [[Codex_Test/撮影機材/三脚・スタンド・ジンバル・マウント類/Cobby カメラストラップ|Cobby ストラップ]]
+- [[Peak Design カフ リストストラップ|Peak Design カフ]]
+- [[Cobby カメラストラップ|Cobby ストラップ]]
 ## 仕様
 
 - **種類**: ストラップアクセサリー

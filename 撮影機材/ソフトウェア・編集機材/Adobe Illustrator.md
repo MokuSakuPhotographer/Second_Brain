@@ -1,48 +1,53 @@
 ﻿---
 type: software
-蜷榊燕: Adobe Illustrator
-繧ｫ繝・ざ繝ｪ: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
-繝｡繝ｼ繧ｫ繝ｼ: Adobe
-逕ｨ騾・ 繝吶け繧ｿ繝ｼ蛻ｶ菴懊・繝・じ繧､繝ｳ
-蛻ｩ逕ｨ蠖｢諷・ 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
-謇譛臥憾豕・ 譛ｪ遒ｺ隱・tags:
-  - 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
-  - 蛻ｶ菴・  - Adobe
+名前: Adobe Illustrator
+カテゴリ: ソフトウェア
+メーカー: Adobe
+用途: ベクター制作・デザイン
+利用形態: サブスクリプション
+所有状況: 未確認
+tags:
+  - ソフトウェア
+  - 制作
+  - Adobe
 aliases:
   - Illustrator
   - AI
   - Adobe AI
-髢｢騾｣讖滓攝:
+関連機材:
   - "[[Adobe Photoshop|Photoshop]]"
   - "[[Adobe After Effects|After Effects]]"
   - "[[Adobe Premiere Pro|Premiere Pro]]"
-  - "[[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]"
+  - "[[PC環境一覧|PC環境]]"
 source_urls:
-  - "蜈ｬ蠑剰｣ｽ蜩∵ュ蝣ｱ: https://www.adobe.com/products/illustrator.html"
+  - "公式製品情報: https://www.adobe.com/products/illustrator.html"
 ---
 ![[Adobe Illustrator icon.svg|400]]
 
 
 # Adobe Illustrator
 
-#繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢ #蛻ｶ菴・#Adobe
+#ソフトウェア #制作 #Adobe
 
-## 蝓ｺ譛ｬ諠・ｱ
+## 基本情報
 
-- **繧ｫ繝・ざ繝ｪ**: 繧ｽ繝輔ヨ繧ｦ繧ｧ繧｢
-- **繝｡繝ｼ繧ｫ繝ｼ**: Adobe
-- **逕ｨ騾・*: 繝吶け繧ｿ繝ｼ蛻ｶ菴懊・繝・じ繧､繝ｳ
-- **謇譛臥憾豕・*: 譛ｪ遒ｺ隱・
-## 髢｢騾｣讖滓攝
+- **カテゴリ**: ソフトウェア
+- **メーカー**: Adobe
+- **用途**: ベクター制作・デザイン
+- **所有状況**: 未確認
+
+## 関連機材
 
 - [[Adobe Photoshop|Photoshop]]
 - [[Adobe After Effects|After Effects]]
 - [[Adobe Premiere Pro|Premiere Pro]]
-- [[PC迺ｰ蠅・ｸ隕ｧ|PC迺ｰ蠅ゾ]
+- [[PC環境一覧|PC環境]]
 
-## 莉墓ｧ・
-- **蛻ｩ逕ｨ蠖｢諷・*: 繧ｵ繝悶せ繧ｯ繝ｪ繝励す繝ｧ繝ｳ
-- **荳ｻ縺ｪ逕ｨ騾・*: 繝ｭ繧ｴ縲√い繧､繧ｳ繝ｳ縲√う繝ｩ繧ｹ繝医√・繧ｯ繧ｿ繝ｼ邏譚仙宛菴・
-## 繝｡繝｢
+## 仕様
 
-- 繧､繝ｳ繧ｹ繝医・繝ｫ迥ｶ豕√→菴ｿ逕ｨ繝舌・繧ｸ繝ｧ繝ｳ縺ｯ譛ｪ遒ｺ隱阪・
+- **利用形態**: サブスクリプション
+- **主な用途**: ロゴ、アイコン、イラスト、ベクター素材制作
+
+## メモ
+
+- インストール状況と使用バージョンは未確認。
