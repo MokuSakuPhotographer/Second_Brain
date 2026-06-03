@@ -10,6 +10,8 @@ tags:
   - anime
   - Fate-stay_night_Unlimited_Blade_Works
   - Fate
+aliases:
+  - Fate UBW
 ---
 
 # Fate/stay night [Unlimited Blade Works]

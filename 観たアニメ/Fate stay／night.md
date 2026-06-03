@@ -9,6 +9,8 @@ tags:
   - anime
   - Fate_stay-night
   - Fate
+aliases:
+  - Fate DEEN版
 ---
 
 # Fate stay/night
