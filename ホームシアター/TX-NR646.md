@@ -36,6 +36,8 @@ source_urls:
   - "仕様参考: https://www.zkelectronics.com/receiverspecs/onkyo-tx-nr646/usa"
 ---
 
+![[TX-NR646.jpg]]
+
 # TX-NR646
 
 #ホームシアター #AVアンプ #Onkyo

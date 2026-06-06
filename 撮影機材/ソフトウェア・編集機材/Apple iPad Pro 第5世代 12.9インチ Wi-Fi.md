@@ -1,4 +1,4 @@
-﻿---
+---
 type: device
 名前: Apple iPad Pro 第5世代 12.9インチ Wi-Fi
 カテゴリ: PC環境・周辺機器

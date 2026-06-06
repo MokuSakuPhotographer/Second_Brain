@@ -32,6 +32,8 @@ source_urls:
   - "レビュー仕様参考: https://av.watch.impress.co.jp/docs/review/review/1230976.html"
 ---
 
+![[Z6 Polar Meets popIn Aladdin.png]]
+
 # Z6 Polar Meets popIn Aladdin
 
 #ホームシアター #プロジェクター #popIn #Aladdin

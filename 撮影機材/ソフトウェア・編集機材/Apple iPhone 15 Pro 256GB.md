@@ -1,4 +1,4 @@
-﻿---
+---
 type: device
 名前: Apple iPhone 15 Pro 256GB
 カテゴリ: PC環境・周辺機器

@@ -1,0 +1,437 @@
+# MasterProfile
+
+## AI Summary
+※MasterProfile完成後にAIで自動生成
+
+---
+
+# 基本情報
+
+## 名前
+
+- MokuSaku
+
+## 年齢
+
+- 31
+
+## 誕生日
+
+- 1995-06-02
+## 職業
+
+- ホテルマン
+
+## 居住地
+
+- 埼玉県北部
+
+## 家族構成
+
+- 母・父
+
+---
+
+# 現在の状況
+
+## 現在力を入れていること
+
+- 偽ECサイトの構築
+- 撮影技術の向上
+	- 人物撮影におけるライティングの研究
+	- スナップ撮影の時に光と影に注目し、写真を撮ること
+- Obsidian構築
+
+## 最近興味があること
+
+- アニメ視聴
+- ObsidianとAIの連携
+- 新型CX-5への乗り換え
+
+## 今抱えている課題
+
+- ライティングの配置は何が正解なのかが分からないこと
+- 友人との距離間
+	- 自分がされたら嫌なことに対して、関係を壊さずにそれをどうやって当人に伝えるか
+
+---
+
+# 目標
+
+## 短期目標（1ヶ月～3ヶ月）
+
+- 撮影技術向上
+	- 主にライティングと人物撮影
+- 
+
+## 中期目標（半年～1年）
+
+- 部屋を綺麗にする
+- 撮影環境の充実
+
+## 長期目標（3年以上）
+
+- 撮影技術を駆使した職業に就くこと
+	- まだ検討段階なので目標というよりは希望的観測としている
+- 英語で日常会話くらいは話せるようになること
+
+---
+
+# 英語学習
+
+## 現在のレベル
+
+- A2レベル
+	- 簡単な会話レベル。日常会話はまだ厳しい
+	- 簡単なフレーズや文章も瞬時に出てこない時があるレベル
+
+## 学習目的
+
+- 海外の人との交流を深めたい
+- 英語を単純な知識として自分のものにしたい
+
+## 学習方法
+
+- Duolingo
+- Youtubeで海外の動画を見る
+- わからない単語やフレーズ・文章をChatGPTに聞く
+
+## 苦手な分野
+
+- 関係代名詞
+	- 何度も学習しているが理解できる気がしない
+	- 理解できたとしても会話でスラスラ使えるビジョンが見えてこない
+
+## よく使う教材
+
+- Duolingo
+
+---
+
+# 写真
+
+## 撮影ジャンル
+
+- 人物撮影
+	- ポートレート
+	- コスプレ撮影
+- 
+
+## 撮影スタイル
+
+- 日常を切り取る
+	- 瞬間的な出来事を重視する
+	- 光と影を観察し、コントラストを重要視する
+- スナップ撮影では軽量機材を持っていく
+- コスプレイベントやスタジオ撮影ではフル機材を持っていく
+- ほぼ常にカメラを持ち歩く
+
+## 得意分野
+
+- スナップ撮影
+- 作品に近いレタッチ
+	- 独特なレタッチ
+
+## 今後学びたいこと
+
+- ライティング
+- 被写体に自然になってもらうための撮影しながらの会話技術
+- 後幕シンクロを使用した撮影
+
+---
+
+# カメラ機材
+
+## カメラボディ
+
+- [[DJI Osmo Action 5 Pro]]
+- [[SONY α7Ⅳ]]
+- [[SONY α7Ⅴ]]
+- [[SONY α7C]]
+
+## レンズ
+
+- [[SIGMA Art 85mm F1.4 DG DN]]
+- [[SONY SEL35F18F]]
+- [[SONY SEL55F18Z]]
+- [[SONY SEL90M28G]]
+- [[TAMRON 16-30mm F／2.8 Di III VXD G2 (A064S)]]
+- [[TAMRON 28-200mm F／2.8-5.6 Di III RXD (Model A071)]]
+- [[TAMRON 35-100mm F2.8 Di III VXD (Model A078S)]]
+- [[TAMRON 70-180mm F／2.8 Di III VC VXD G2]]
+
+## ストロボ
+
+- [[GODOX AD100Pro Ⅱ]]
+- [[GODOX TT685SⅡ-S]]
+
+## その他機材
+
+- [[HAKUBA E-ドライボックス KED-P20]]
+- [[HAKUBA クリーニングペーパー100]]
+- [[HAKUBA レンズペン3]]
+- [[Kenko クリーニングキット]]
+- [[Kingston SDXCカード 256GB Canvas React Plus]]
+- [[Kingston SDメモリー カードリーダー]]
+- [[Lexar SDXCカード Professional 1800x 256GB]]
+- [[ProGrade Digital GOLD メモリーカード 64GB]]
+- [[SanDisk microSD カード 256GB]]
+- [[サンワダイレクト ガジェットポーチ]]
+- [[Adobe After Effects]]
+- [[Adobe Illustrator]]
+- [[Adobe Lightroom Classic]]
+- [[Adobe Photoshop]]
+- [[Adobe Premiere Pro]]
+- [[Apple iPad Pro 第5世代 12.9インチ Wi-Fi]]
+- [[Apple iPhone 15 Pro 256GB]]
+- [[Blender]]
+- [[BEACO レインカバー Lサイズ]]
+- [[HAKUBA プラスシェル シティロールトップバックパック26]]
+- [[HAKUBA プラスシェル ショルダーバッグ M]]
+- [[HAKUBA プラスシェル メッセンジャー L]]
+- [[Hemmotop 三脚ケース 100cm／21cm／21cm R10021]]
+- [[Hemmotop 三脚ケース 80cm ／ 18cm ／ 18cm]]
+- [[Manfrotto カメラローラーバッグ Advanced III]]
+- [[Panasonic エネループ単3 4本パック 大容量モデル]]
+- [[SONY リチャージャブルバッテリーパック NP-FZ100]]
+- [[ヘーネル ProCube2]]
+- [[H&Y NDフィルター ビデオNDキット EVO マグネット式]]
+- [[H&Y ステップアップリング 55-77mm マグネット式]]
+- [[H&Y ステップアップリング 62-77mm マグネット式]]
+- [[H&Y ステップアップリング 67-77mm マグネット式]]
+- [[H&Y ナチュラルCPLフィルター EVO マグネット式]]
+- [[H&Y フィルターリアキャップ 77mm EVO マグネット式]]
+- [[H&Y ブラックミスト 1／4 EVO マグネット式]]
+- [[H&Y レンズキャップ 77mm EVO マグネット式]]
+- [[HAKUBA 55mm CPLフィルター]]
+- [[JJC 折りたたみ式 フィルターケース 3枚用]]
+- [[K&F Concept NDフィルター 67mm 可変式]]
+- [[K&F Concept フィルターケース 10枚用]]
+- [[Kenko 77mm CPLフィルター PRO1D NEO]]
+- [[Kenko 可変NDフィルター 77mm ND3-400]]
+- [[MARUMI 67mm CPLフィルター]]
+- [[Amconsure LEDリングライト]]
+- [[Godox AK-R16 磁気マウントディフューザー・カラーフィルターセット]]
+- [[Godox ML-CD15]]
+- [[Godox S2 ブラケット Bowensマウント]]
+- [[Godox S3 ブラケット Bowensマウント]]
+- [[Godox X3S]]
+- [[HIPPO REILLY A3 レフ板]]
+- [[NEEWER 65cm 八角形ソフトボックス オクタゴン Bowensマウント]]
+- [[NEEWER 90cm八角形ソフトボックス オクタゴン Bowensマウント]]
+- [[PULUZ 撮影ボックス 60x60x60cm]]
+- [[Selens 撮影用 レフ板 80cm]]
+- [[UNPLUGGED STUDIO 33インチ ホワイトアンブレラ]]
+- [[VL-81 LEDビデオライト]]
+- [[ローラーバッグのパッキング]]
+- [[Carry Speed F3プレート]]
+- [[Cobby カメラストラップ]]
+- [[DJI RSC2]]
+- [[FOSOTO ライトスタンド アルミ製]]
+- [[Fotopro C-4i]]
+- [[Godox FG-100]]
+- [[K&F CONCEPT レフ板 クリップ]]
+- [[Peak Design カフ リストストラップ]]
+- [[PeakDesign アンカーリンクス]]
+- [[PGYTECH クイックリリースクランプ V2]]
+- [[PGYTECH ショルダーストラップ クイックリリースクランプ]]
+- [[SIRUI Traveler X Ⅲ]]
+- [[SmallRig DJI RSC2用ハンドグリップ]]
+- [[SPIDER CAMERA HOLSTER]]
+- [[TELESIN ネックレスマウント]]
+- [[ULANZI F38回転ズレ防止クイックリリースプレート]]
+
+---
+
+# PC環境
+
+## [[G-Master Spear Z790 D5|メインPC]]
+
+- [[Asetek 670LS 240mm水冷]]
+- [[ASUS DRW-24D5MT]]
+- [[ASUS TUF RTX 4090]]
+- [[CoolerMaster CM694 TG]]
+- [[Core i9 14900KF]]
+- [[Crucial MX500 2TB]]
+- [[Crucial T500 1TB]]
+- [[FSP HYDRO GT PRO 1000W]]
+- [[G-Master Spear Z790 D5]]
+- [[Noctua NT-H1]]
+- [[RAM 64GB]]
+- [[Seagate BarraCuda 8TB]]
+- [[Windows 11 Home]]
+- [[Z790 Pro RS]]
+
+## 周辺機器
+
+- [[audio-technica AT2020]]
+- [[Creative Pebble Pro]]
+- [[Sennheiser HD 598]]
+- [[Sony INZONE Buds]]
+- [[YAMAHA AG03]]
+- [[マイクアーム B07D33F6JK]]
+- [[ELECOM VK720AL]]
+- [[iClever IC-KP08]]
+- [[Keychron K2]]
+- [[Logicool MX KEYS S KX800]]
+- [[BenQ EW2780U]]
+- [[Green House GH-AMC03]]
+- [[Pixio Prime NEO 27インチ WQHD]]
+- [[UGREEN HDDケース]]
+- [[Logicool G PRO X SUPERLIGHT]]
+- [[Logicool MX Master 3S]]
+- [[Razer DeathAdder V3 HyperSpeed]]
+- [[Razer HyperPolling Wireless Dongle]]
+- [[SteelSeries QcK Edge XL]]
+
+## 使用ソフト
+
+- [[Adobe After Effects]]
+- [[Adobe Illustrator]]
+- [[Adobe Lightroom Classic]]
+- [[Adobe Photoshop]]
+- [[Adobe Premiere Pro]]
+- [[Blender]]
+
+---
+
+# ゲーム
+
+## 現在プレイ中
+
+- モバイル
+	- 崩壊スターレイル
+	- ツイステッドワンダーランド
+	- 学園アイドルマスター
+- PC
+	- なし
+
+## 特に好きなゲーム
+
+- VALORANT
+- League of Legends
+- Grand Theft Autoシリーズ
+- シミュレーションゲーム全般
+- ストラテジーゲーム全般
+- No Man's Sky
+
+---
+
+# ホームシアター
+
+## 現在の構成
+
+- 5.1.2ch
+	- [[D-109M]]
+		- サラウンドスピーカー・ハイトスピーカー
+	- [[D-509C]]
+		- センタースピーカー
+	- [[D-509E]]
+		- フロントスピーカー
+	- [[KJ-55X9000E]]
+		- テレビ
+	- [[SL-A251]]
+		- サブウーファー
+	- [[TX-NR646]]
+		- AVアンプ
+	- [[Z6 Polar Meets popIn Aladdin]]
+		- プロジェクター
+
+## 今後の構成予定
+
+- 現在の構成のまま更新予定無し
+
+## 課題
+
+- 定位感や音場の詰めが甘い
+
+---
+
+# 仕事
+
+## 業務内容
+
+- フロント業務全般
+	- 電話対応
+	- 予約受付
+	- チェックイン・アウト対応
+	- 領収書などを発行する事務全般
+	- 会社内でのより便利な環境構築
+
+## よく使うスキル
+
+- Excelを使用した簡単な氏名リスト作成
+- クリエイティブを活かしたホテル内ポップアップ作成
+- ホテル内のポップアップなどに使う写真の撮影
+
+
+---
+
+# 価値観
+
+## 重視すること
+
+- 実用性
+- コストパフォーマンス
+- 長期間使用できる
+- 情報の正確性
+- 信頼性
+- 自分に必要なものであること
+
+## 苦手なこと
+
+- 根拠のない主張
+- コストに見合わないもの
+- 自分にとって実用性の低い機能
+- ふわっとした説明
+- 
+
+## 物事を選ぶ基準
+
+- 実用性を最優先する
+- コストに対する効果を重視する
+- 自分で管理できる仕組みを好む
+- 流行より再現性を重視する
+- 趣味でも学習効果があるものを好む
+- 候補が複数ある場合は仕様値を比較してより良い方を選ぶ
+- 
+
+---
+
+# AIへの指示
+
+## 回答スタイル
+
+- 結論を先に示す
+- 手順を段階的に説明する
+- 理由も併せて説明する
+- 抽象論より具体例を重視する
+- 必要に応じて表や箇条書きを使う
+- 専門用語は解説付きで説明する
+
+## 優先事項
+
+- 情報の正確性
+- 実用性
+- 再現性
+- コストパフォーマンス
+- 長期運用のしやすさ
+
+## 回避してほしいこと
+
+- 根拠のない断定
+- 精神論や気合論
+- ふわっとした説明
+- 最新情報を無視した回答
+- メリットだけを説明すること
+- 現実的ではない提案
+
+---
+
+# 更新履歴
+
+## 2026
+
+### 2026-06
+
+- 
