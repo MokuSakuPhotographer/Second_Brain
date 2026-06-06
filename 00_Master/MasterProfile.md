@@ -317,7 +317,12 @@ AIには、結論を先に示し、手順と理由を段階的に説明するこ
 - League of Legends
 - Grand Theft Autoシリーズ
 - シミュレーションゲーム全般
+	- Cities Skylinesシリーズ
+	- Simsシリーズ
+	- Football managerシリーズ
 - ストラテジーゲーム全般
+	- Victoria
+	- 
 - No Man's Sky
 
 ---

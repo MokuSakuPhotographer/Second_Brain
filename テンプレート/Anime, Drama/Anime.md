@@ -20,3 +20,5 @@ tags:
   - anime
   - <% await tp.system.prompt("追加タグ 例: 泣いた / SF / 異世界") %>
 ---
+
+## 備考

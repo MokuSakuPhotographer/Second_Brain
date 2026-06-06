@@ -237,7 +237,7 @@ https://mokusaku.github.io/WebARG/
     
 - **柴田 健吾（しばた けんご）50歳:** ヨイミカメラ店主。顧客データ保護のため黙秘を貫き、警察に拘束中。濡れ衣を着せられた人物。
     
-![Shibata Kengo.webp](Shibata_Kengo.webp)
+![Shibata Kengo.webp](02_画像アセット/Shibata_Kengo.webp)
     
 - **鳴海 朔（なるみ さく）45歳:** 被害者。行方不明となっている完璧主義のポートレート写真家。
     
@@ -245,11 +245,11 @@ https://mokusaku.github.io/WebARG/
     
     堂島 玲奈を好きになり、執着するようになる。
     
-![Narumi Saku.webp](Narumi_Saku.webp)
+![Narumi Saku.webp](02_画像アセット/Narumi_Saku.webp)
     
 - **星野 悠（ほしの ゆう）24歳:** 鳴海の弟子。ヨイミカメラの社員。彼のブログに記された鳴海の「愛用機材の癖」が、偽造データを見破る鍵となる。
     
-![Hoshino Yu.webp](Hoshino_Yu.webp)
+![Hoshino Yu.webp](02_画像アセット/Hoshino_Yu.webp)
     
 - **刈谷 哲（かりや てつ）29歳:** ヨイミカメラのWeb・サーバー担当。剛に買収されてバックドアと偽造データを仕込んだ裏切り者。事件以降、失踪。
     
@@ -341,7 +341,7 @@ Shutter Speed: 1/250
 
 Copyright: Narumi Saku
 
-![Portrait_2.webp](Portrait_2.webp)
+![Portrait_2.webp](02_画像アセット/Portrait_2.webp)
 
 Date: 2016/08/07
 
@@ -357,7 +357,7 @@ Shutter Speed: 1/800
 
 Copyright: Narumi Saku
 
-![Portrait_3.webp](Portrait_3.webp)
+![Portrait_3.webp](02_画像アセット/Portrait_3.webp)
 
 Date: 2016/09/01
 
@@ -373,7 +373,7 @@ Shutter Speed: 1/150
 
 Copyright: Narumi Saku
 
-![Portrait_4.webp](Portrait_4.webp)
+![Portrait_4.webp](02_画像アセット/Portrait_4.webp)
 
 Date: 2016/10/26
 
@@ -405,7 +405,7 @@ Shutter Speed: 1/800
 
 Copyright: Narumi Saku
 
-![Portrait_6.webp](Portrait_6.webp)
+![Portrait_6.webp](02_画像アセット/Portrait_6.webp)
 
 Date: 2016/10/26
 
