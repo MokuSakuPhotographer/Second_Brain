@@ -1,4 +1,4 @@
-﻿---
+---
 type: software
 名前: Adobe Illustrator
 カテゴリ: ソフトウェア
@@ -12,8 +12,8 @@ tags:
   - Adobe
 aliases:
   - Illustrator
-  - AI
-  - Adobe AI
+  - Adobe Ai
+  - Ai
 関連機材:
   - "[[Adobe Photoshop|Photoshop]]"
   - "[[Adobe After Effects|After Effects]]"

@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: SIGMA
 製品名: 85mm F1.4 DG DN | Art

@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: TAMRON
 製品名: 16-30mm F/2.8 Di III VXD G2

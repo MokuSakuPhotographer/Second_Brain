@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "6c16da61e5ace5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b2e54faf9e1c3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cd46691a51f73f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eba61004242915e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca35ebb464bf31e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca13e36a198e95a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "93500fa41e1bd372",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "182db887b6aae2ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "12c9da2e8767719c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffbf3e7e1f781450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466f1cd0a396623f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "5989f0e2b60206dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "偽ECサイト/偽ECサイト 修正タスク.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "偽ECサイト 修正タスクへのバックリンク"
+            }
+          },
+          {
+            "id": "9b6de986dad338a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "8c14f642110f7197",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "5f6eb42ad4d3a87e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "アイデア.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アイデアのアウトライン"
+            }
+          },
+          {
+            "id": "70ed23f3a4283b8f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "remotely-save:Remotely Save": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6cd46691a51f73f2",
+  "lastOpenFiles": [
+    "01_各種一覧/PC環境一覧.md",
+    "01_各種一覧/ナレッジベース一覧.md",
+    "01_各種一覧/撮影機材一覧.md",
+    "01_各種一覧/購入検討品一覧.md",
+    "01_各種一覧/観たアニメ一覧.md",
+    "01_各種一覧",
+    "05_観たアニメ/シュタインズ・ゲート.md",
+    "03_Daily/2026-06-08.md",
+    "03_Daily/2026-06-07.md",
+    "01_各種一覧-R_M_Laptop",
+    "Daily/2026-06-04.md",
+    "偽ECサイト/偽ECサイト 修正タスク.md",
+    "Daily/2026-06-03.md",
+    "ブラック・ミラー 観た話/秘密.md",
+    "観たアニメ/転生したらスライムだった件.md",
+    "画像アセット/DSC02176-HDR.jpg",
+    "画像アセット.md",
+    "おすすめ漫画.md",
+    "ロケ地DB.md",
+    "ARGを作る.md",
+    "ナレッジベース/Lブラケット・ケージ 導入計画案.md",
+    "AGENTS.md",
+    "観たアニメ/Fate stay／night.md",
+    "観たアニメ/その着せ替え人形は恋をする.md",
+    "観たアニメ/チ。―地球の運動について―.md",
+    "観たアニメ/炎炎ノ消防隊.md",
+    "観たアニメ/葬送のフリーレン.md",
+    "観たアニメ/転生したらスライムだった件 コリウスの夢.md",
+    "観たアニメ/魔法少女 まどかマギカ.md",
+    "偽ECサイト",
+    "画像アセット/PC環境/Creative Pebble Pro Alpine Green.jpg",
+    "画像アセット/撮影機材/NEEWER 90cm Octagonal Softbox.jpg",
+    "画像アセット/DSC02050 1.jpg",
+    "画像アセット/DSC02020 1.jpg",
+    "撮影機材_backup_20260602-152956/レンズ",
+    "撮影機材_backup_20260602-152956/バッテリー・充電器",
+    "撮影機材_backup_20260602-152956/バッグ・ケース",
+    "撮影機材_backup_20260602-152956/三脚・スタンド・ジンバル・マウント類",
+    "撮影機材_backup_20260602-152956/ライティング・撮影アクセサリー",
+    "撮影機材_backup_20260602-152956/フィルター関連",
+    "撮影機材_backup_20260602-152956/ソフトウェア・編集機材",
+    "画像アセット/DSC02042.jpg",
+    "画像アセット/撮影機材/UNPLUGGED STUDIO UN-030 White Umbrella.jpg",
+    "画像アセット/撮影機材/HIPPO REILLY A3 Reflector.jpg",
+    "画像アセット/撮影機材/VL-81 LED Video Light.webp",
+    "画像アセット/撮影機材/Selens 80cm Reflector.jpg",
+    "無題のファイル.canvas"
+  ]
+}
