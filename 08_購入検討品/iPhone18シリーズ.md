@@ -8,8 +8,8 @@ type: device
 発売状況: 未発表
 公式仕様: 未公開
 想定発売時期:
-  - 2026年秋: iPhone 18 Pro / Pro Max / Fold系の噂
-  - 2027年春: iPhone 18 / 18e系の噂
+  - "2026年秋: iPhone 18 Pro / Pro Max / Fold系の噂"
+  - "2027年春: iPhone 18 / 18e系の噂"
 tags:
   - 購入検討
   - Apple
@@ -88,4 +88,3 @@ source_urls:
 
 - Apple公式にはiPhone 18シリーズの製品ページは未掲載。
 - MacRumorsの噂まとめでは、iPhone 18世代の分割発売、A20系チップ、C2モデム、前面カメラ更新などが噂として記載されている。
-
