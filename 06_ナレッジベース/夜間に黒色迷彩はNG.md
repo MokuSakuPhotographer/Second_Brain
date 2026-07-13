@@ -1,8 +1,7 @@
 ---
 tags:
-  - 知識
-  - 軍事
-  - 色
+  - 科学/物理
+  - 文化/写真
 source:
   - Gemini
   - "[Quora: Why doesn't the U.S. military ever wear black as their BDU?](https://www.quora.com/Why-doesnt-the-U-S-military-ever-wear-black-as-their-BDU#:~:text=Odysseus%20Rex,6)"

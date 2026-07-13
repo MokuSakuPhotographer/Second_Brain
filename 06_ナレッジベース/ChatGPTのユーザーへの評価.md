@@ -1,8 +1,7 @@
 ---
 tags:
-  - 思考
-  - 面白
-  - 自己分析
+  - 技術/AI
+  - 科学/心理
 source:
   - ChatGPT
 created: 2026-06-19

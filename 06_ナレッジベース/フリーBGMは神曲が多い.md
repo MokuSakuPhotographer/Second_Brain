@@ -1,8 +1,7 @@
 ---
 tags:
-  - 思考
-  - 音楽
-  - BGM
+  - 文化/音楽
+  - 技術/ソフトウェア
 source:
   - "[YouTube](https://www.youtube.com/watch?v=NHfopv9no38&list=PLDlpBPG7SoeeS8pLLV85igaM8PHu4pnDW&index=2)"
 created: 2026-06-19

@@ -1,9 +1,8 @@
 ---
 tags:
-  - 知識
-  - 社会
-  - 犯罪
-  - 国際
+  - 社会/制度
+  - 社会/国際情勢
+  - 社会/事件
 source:
   - "[YouTube](https://youtu.be/0an7kovsPeQ?si=4LGxj3aD9AfSjqj_)"
 created: 2026-06-19
