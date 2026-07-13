@@ -1,3 +1,15 @@
+---
+tags:
+  -
+source:
+  -
+created: 2026-07-04
+updated: 2026-07-04
+aliases:
+  -
+status: draft
+---
+
 ## 概要
 
 IVORY7 CHORD「Paradox」は、  

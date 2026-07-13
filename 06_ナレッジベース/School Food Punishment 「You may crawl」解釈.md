@@ -3,7 +3,13 @@ tags:
   - 思考
   - 音楽
   - 歌詞解釈
-source: ChatGPT
+source:
+  - ChatGPT
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # School Food Punishment 「You may crawl」解釈

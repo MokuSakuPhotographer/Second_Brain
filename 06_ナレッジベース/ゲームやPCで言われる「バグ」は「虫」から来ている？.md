@@ -6,8 +6,11 @@ tags:
   - コンピューター
 source:
   - "[YouTube: なぜコンピュータの不具合を「バグ（＝虫）」と呼ぶのか？【ゆっくり解説】](https://youtu.be/AliBhMS_SIw)"
-作成日時: "2025年12月6日 4:49"
-まとめ済: "Yes"
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # ゲームやPCで言われる「バグ」は「虫」から来ている？

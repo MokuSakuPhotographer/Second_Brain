@@ -4,8 +4,12 @@ tags:
   - 言語
   - 商品名
 source:
-作成日時: "2025年2月19日 20:42"
-まとめ済: "Yes"
+  -
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # カルピスは英語で”Cow Piss”に聞こえる

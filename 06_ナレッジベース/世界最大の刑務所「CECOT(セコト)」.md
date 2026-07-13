@@ -6,8 +6,11 @@ tags:
   - 国際
 source:
   - "[YouTube](https://youtu.be/0an7kovsPeQ?si=4LGxj3aD9AfSjqj_)"
-作成日時: "2025年12月8日 21:24"
-まとめ済: "Yes"
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # 世界最大の刑務所「CECOT(セコト)」

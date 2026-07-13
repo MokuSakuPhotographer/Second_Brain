@@ -1,7 +1,4 @@
 ---
-title: 偽りのオレンジ 考察
-artist: LAST ALLIANCE
-type: lyric-analysis
 tags:
   - 音楽考察
   - LAST_ALLIANCE
@@ -10,7 +7,13 @@ tags:
   - 不安
   - 真実
   - 自己欺瞞
+source:
+  -
 created: 2026-07-04
+updated: 2026-07-04
+aliases:
+  -
+status: draft
 ---
 
 ## 結論

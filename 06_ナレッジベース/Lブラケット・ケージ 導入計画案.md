@@ -1,3 +1,15 @@
+---
+tags:
+  -
+source:
+  -
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
+---
+
 # ケース1
 
 ## テーブルフォト・料理撮影での [[SONY α7Ⅳ|α7Ⅳ]] + [[撮影機材/デバイス/Apple iPad Pro 第5世代 12.9インチ Wi-Fi|iPad Pro]] 運用

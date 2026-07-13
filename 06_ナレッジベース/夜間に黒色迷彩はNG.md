@@ -8,8 +8,11 @@ source:
   - "[Quora: Why doesn't the U.S. military ever wear black as their BDU?](https://www.quora.com/Why-doesnt-the-U-S-military-ever-wear-black-as-their-BDU#:~:text=Odysseus%20Rex,6)"
   - "[Quora: Why don't special forces wear black camouflage during night missions?](https://www.quora.com/Why-dont-special-forces-wear-black-camouflage-during-night-missions)"
   - "[Patrol Base: Tan VS Black - Which is the best colour for an Airsoft gun?](https://www.patrolbase.co.uk/airsoft-buying-guides/tan-vs-black-which-is-the-best-colour-for-an-airsoft-gun#:~:text=Infrared%20Signature%20%2D%20Why%20Militaries%20and,devices%20by%20repelling%20IR%20radiation)"
-作成日時: "2025年11月23日 7:13"
-まとめ済: "Yes"
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # 夜間に黒色迷彩はNG

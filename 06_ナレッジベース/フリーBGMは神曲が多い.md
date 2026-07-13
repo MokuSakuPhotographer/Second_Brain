@@ -5,8 +5,11 @@ tags:
   - BGM
 source:
   - "[YouTube](https://www.youtube.com/watch?v=NHfopv9no38&list=PLDlpBPG7SoeeS8pLLV85igaM8PHu4pnDW&index=2)"
-作成日時: "2025年2月19日 20:32"
-まとめ済: "Yes"
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # フリーBGMは神曲が多い

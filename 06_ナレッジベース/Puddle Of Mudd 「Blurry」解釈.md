@@ -3,7 +3,13 @@ tags:
   - 思考
   - 音楽
   - 歌詞解釈
-source: ChatGPT
+source:
+  - ChatGPT
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 まず前提として、この曲はボーカルの Wes Scantlin が、成功のために故郷を離れた際に息子と離れ離れになった寂しさや苦悩を歌った楽曲です。本人も「家族や息子が恋しかった」と語っています。 ([American Songwriter](https://americansongwriter.com/behind-the-song-blurry-by-puddle-of-mudd/?utm_source=chatgpt.com "Behind The Song: \"Blurry\" By Puddle of Mudd"))

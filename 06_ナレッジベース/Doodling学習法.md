@@ -4,8 +4,12 @@ tags:
   - 学習
   - 認知
 source:
-作成日時: "2025年1月27日 13:41"
-まとめ済: "Yes"
+  -
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # Doodling学習法

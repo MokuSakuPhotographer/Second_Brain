@@ -4,7 +4,13 @@ tags:
   - 写真
   - カメラ
   - 機材
-source: Claude
+source:
+  - Claude
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # [[SONY α7Ⅳ|α7 IV]] → [[Codex_Test/撮影機材/カメラ本体/SONY α7Ⅴ|α7 V]] 主要進化点まとめ

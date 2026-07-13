@@ -3,8 +3,13 @@ tags:
   - 思考
   - 面白
   - 自己分析
-source: ChatGPT
-作成日時: "2026.05.20 時点での回答"
+source:
+  - ChatGPT
+created: 2026-06-19
+updated: 2026-06-07
+aliases:
+  -
+status: draft
 ---
 
 # ChatGPTのユーザーへの評価
