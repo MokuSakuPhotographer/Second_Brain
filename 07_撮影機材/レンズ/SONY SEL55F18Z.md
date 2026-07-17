@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: SONY
 製品名: Sonnar T* FE 55mm F1.8 ZA

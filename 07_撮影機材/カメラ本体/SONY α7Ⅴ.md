@@ -1,4 +1,4 @@
-﻿---
+---
 type: camera_body
 メーカー: SONY
 製品名: α7 V
