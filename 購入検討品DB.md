@@ -8,3 +8,5 @@
 ---
 - UGREEN DH4300 Plus
 	- NAS
+- 恐怖心展
+	- 単行本またはKindle
