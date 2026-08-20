@@ -1,7 +1,9 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "画像アセット",
+  "attachmentFolderPath": "02_画像アセット",
   "alwaysUpdateLinks": true,
   "livePreview": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "showInlineTitle": true,
+  "strictLineBreaks": false
 }

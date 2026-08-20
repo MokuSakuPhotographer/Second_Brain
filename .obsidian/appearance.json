@@ -2,5 +2,12 @@
   "enabledCssSnippets": [
     "dataview-table-border",
     "Image 500px"
-  ]
+  ],
+  "nativeMenus": false,
+  "cssTheme": "Tokyo Night",
+  "accentColor": "",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "showRibbon": true
 }
