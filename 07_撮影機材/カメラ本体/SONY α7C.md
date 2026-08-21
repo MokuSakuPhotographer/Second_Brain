@@ -1,4 +1,4 @@
-﻿---
+---
 type: camera_body
 名前: SONY α7C
 カテゴリ: カメラ本体

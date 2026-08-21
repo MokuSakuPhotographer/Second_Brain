@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: SONY
 製品名: FE 35mm F1.8

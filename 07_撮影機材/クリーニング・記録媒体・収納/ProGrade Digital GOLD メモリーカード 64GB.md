@@ -1,4 +1,4 @@
-﻿---
+---
 type: memory_card
 名前: ProGrade Digital GOLD メモリーカード 64GB
 カテゴリ: クリーニング・記録媒体・収納

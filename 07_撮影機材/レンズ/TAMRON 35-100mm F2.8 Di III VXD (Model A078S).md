@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: TAMRON
 製品名: 35-100mm F/2.8 Di III VXD

@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: TAMRON
 製品名: 28-200mm F/2.8-5.6 Di III RXD

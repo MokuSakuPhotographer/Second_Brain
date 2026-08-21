@@ -1,4 +1,4 @@
-﻿---
+---
 type: software
 名前: Adobe After Effects
 カテゴリ: ソフトウェア

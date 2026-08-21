@@ -1,4 +1,4 @@
-﻿---
+---
 type: lens
 メーカー: SONY
 製品名: FE 90mm F2.8 Macro G OSS

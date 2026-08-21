@@ -1,4 +1,4 @@
-﻿---
+---
 type: software
 名前: Adobe Photoshop
 カテゴリ: ソフトウェア

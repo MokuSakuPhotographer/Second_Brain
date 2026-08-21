@@ -1,4 +1,4 @@
-﻿---
+---
 type: memory_card
 名前: Kingston SDXCカード 256GB Canvas React Plus
 カテゴリ: クリーニング・記録媒体・収納

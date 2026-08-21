@@ -1,4 +1,4 @@
-﻿---
+---
 type: memory_card
 名前: Lexar SDXCカード Professional 1800x 256GB
 カテゴリ: クリーニング・記録媒体・収納

@@ -1,4 +1,4 @@
-﻿---
+---
 type: strap_accessory
 名前: PeakDesign アンカーリンクス
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
