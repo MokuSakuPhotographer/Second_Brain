@@ -581,7 +581,109 @@ Berlin & Kay の基本色名理論は、色名の発達に普遍的な順序が�
 という考え方である。
 
 ---
+# 出典一覧
 
+## 基本色名理論
+
+- Berlin, Brent & Paul Kay. _Basic Color Terms: Their Universality and Evolution_. University of California Press, 1969.
+    
+    - 基本色名理論の原典。
+        
+    - 色名の普遍性と、基本色名が増える順序について提唱した研究。
+        
+- Kay, Paul et al. _The World Color Survey_.
+    
+    - 多数の言語を対象に、色カテゴリーの分布と普遍性を検討した大規模研究。
+        
+    - Berlin & Kay の理論を検証・修正する上で重要な資料。
+        
+
+## 色カテゴリーの普遍性と多様性
+
+- Regier, Terry, Paul Kay, and Richard S. Cook. “Focal Colors Are Universal After All.” _Proceedings of the National Academy of Sciences_, 2005.
+    
+    - 言語ごとに色カテゴリーは異なる一方、カテゴリーの中心には一定の普遍性があることを論じた研究。
+        
+- Regier, Terry, Paul Kay, and Naveen Khetarpal. “Color Naming Reflects Optimal Partitions of Color Space.” _Proceedings of the National Academy of Sciences_, 2007.
+    
+    - 色カテゴリーを「知覚空間の効率的な分割」として説明する研究。
+        
+    - 現在の効率的コミュニケーション型の説明につながる重要な研究。
+        
+- Gibson, Edward et al. “Color Naming Across Languages Reflects Color Use.” _Proceedings of the National Academy of Sciences_, 2017.
+    
+    - 色名体系が、単なる視覚特性だけでなく、その文化でどの色を区別する必要があるかにも影響されることを示した研究。
+        
+
+## 現代的なレビュー
+
+- Lindsey, Delwin T. & Angela M. Brown. “The Color Lexicon of the World’s Languages.” _Annual Review of Vision Science_, 2021.
+    
+    - 世界の色彩語彙研究を総括したレビュー。
+        
+    - 現代では「完全な普遍主義」でも「完全な文化相対主義」でもなく、知覚・言語・文化の相互作用として理解されていることを整理している。
+        
+
+## 青と緑・grue
+
+- Kay, Paul & Luisa Maffi. “Color Appearance and the Emergence and Evolution of Basic Color Lexicons.” _American Anthropologist_, 1999.
+    
+    - 色名体系の発達と、青・緑を含むカテゴリー分化について論じた研究。
+        
+- World Atlas of Language Structures Online (WALS)
+    
+    - 世界の言語における色彩語彙や語彙カテゴリーの比較に利用できる言語類型論データベース。
+        
+
+## 日本語の色名
+
+- 日本語史・語彙史における「赤・青・白・黒」の基本色名研究
+    
+    - 古代日本語では「赤・青・白・黒」が特に基本的な色彩語であり、「青」が現代の緑領域まで広く含む用法を持っていたことが多くの日本語史研究で指摘されている。
+        
+- 東北大学などによる日本語色彩語彙の進化研究
+    
+    - 日本語において色名カテゴリーが歴史的に細分化してきたことを扱う研究がある。
+        
+
+## 色名が少ない言語
+
+- Everett, Daniel L. _Don’t Sleep, There Are Snakes: Life and Language in the Amazonian Jungle_. Pantheon Books, 2008.
+    
+    - ピダハン語と文化についての一般向け著作。
+        
+    - 「固定的な色名が乏しい」という議論で頻繁に参照される。
+        
+- Conklin, Harold C. “Hanunóo Color Categories.” _Southwestern Journal of Anthropology_, 1955.
+    
+    - ハヌノオ語の色カテゴリー研究として非常に有名な古典。
+        
+    - 色相だけでなく、明暗・湿潤・乾燥・新鮮さなどが分類に関係することを論じた。
+        
+
+## 補足
+
+今回のノート内容は、単一の理論を「確定した法則」として扱うのではなく、以下の研究史に沿って整理している。
+
+```
+Berlin & Kay
+「色名には普遍的な発達順序がある」
+        ↓
+World Color Survey
+「普遍的傾向はあるが、例外や多様性も大きい」
+        ↓
+現代
+「人間共通の知覚的制約
+＋文化
+＋環境
+＋コミュニケーション効率」
+```
+
+現在は、基本色名理論を完全に否定するよりも、
+
+> **普遍的な傾向は存在するが、各言語の色カテゴリーは文化・環境・コミュニケーション上の必要性によって異なる**
+
+とする理解が最も妥当である。
 # 関連キーワード
 
 - 基本色名
