@@ -1,3 +1,19 @@
+---
+tags:
+  - 言語/日本語
+  - 言語/語彙
+  - 科学/心理
+source:
+  - https://wals.info/chapter/134
+  - https://wals.info/refdb/record/Berlin-and-Kay-1969
+  - https://linguistics.berkeley.edu/wcs/index.html
+created: 2026-08-27
+updated: 2026-08-29
+aliases:
+  - 色彩語彙
+status: review
+---
+
 # 色名と言語 ― 青と緑、grue、基本色名理論
 
 ## 隣の芝生はなぜ「青い」のか
