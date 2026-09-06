@@ -1,0 +1,20 @@
+- [x] Artoria Pendragon（アルトリア・ペンドラゴン）
+- [x] Chisa（チサ）
+- [x] Chloe Price（クロエ・プライス）
+- [x] Bronya Rand（ブローニャ・ランド）
+- [x] Ichinose Uruha（一ノ瀬うるは）
+- [x] Ishigami Nozomi（石神のぞみ）
+- [x] Katsuragi Lilja（葛城リーリヤ）
+- [x] Konkon Aria（こんこん・ありあ）
+- [x] Lynae（リンネー）
+- [x] Makima（マキマ）
+- [x] March 7th（三月なのか）
+- [x] Marin Kitagawa（喜多川海夢）
+- [x] Roxy Migurdia（ロキシー・ミグルディア）
+- [x] Shirona Shizuku
+- [x] Temari Tsukimura（月村手毬）
+- [x] Himesaki Rinami（姫崎莉波）
+- [x] Xueyi（雪衣）
+- [x] Yakumo Beni（八雲べに）
+- [x] Zani（ザンニー）
+- [x] Luminous Valentain（ルミナス・バレンタイン）
