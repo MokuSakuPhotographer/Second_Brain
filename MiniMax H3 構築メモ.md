@@ -24,28 +24,26 @@
 
 > [!NOTE]
 > image_use:
-> Exact first frame
+> [この画像を何として使用するか]
+> 例:
+> Exact first frame = この画像そのものを動画の最初のフレームとして使用する
 > 
 > reference_name:
-> [主役の対象名]
+> [この参照画像を識別するための短い名前]
+> 例:
+> main_woman
+> city_night_view
+> red_car
 > 
 > description:
-> [画像全体の説明]。[主役]を中心に扱う。[何を忠実に維持したいか]。
-> 
-> content_type:
-> [object / scene / person など適切なもの]
-> 
-> subject_name:
-> [主役の具体名]
+> [この画像の何を重要な参照情報として扱うか]
+> 人物なら、顔・髪型・衣装・体型・姿勢など。
+> 背景なら、構図・建物・配置・照明・色調など。
+> 「何を維持してほしいか」を具体的に書く。
 > 
 > retention:
-> Auto for this relationship
-> 
-> shot_scope:
-> [どのショットでどう使うか]
-> 
-> transfer_target_subject:
-> [必要な場合のみ]
+> [参照情報をどの程度・どの関係で維持するか]
+> 基本は Auto for this relationship でよい。
 
 # Shot の書き方
 
