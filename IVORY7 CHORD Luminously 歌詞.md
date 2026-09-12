@@ -24,7 +24,7 @@ I picked up something
 that has thornless
 Today I start over again
 I wish this will come to an end
-[判読不能] the reason?
+Was it the reason?
 
 To learned from our
 same mistakes again
