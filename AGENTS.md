@@ -121,7 +121,7 @@
 - 既存のプロパティは、必要がない限り削除・上書きしない。
 
 # MasterProfile月次更新プロセス
-- まず `00_Master/MasterProfile.md` と、必要に応じて `00_Master/MasterProfile運用ガイド.md` を確認する。
+- まず `01_Master/MasterProfile.md` と、必要に応じて `01_Master/MasterProfile運用ガイド.md` を確認する。
 - ユーザーが対象期間を指定した場合、その期間に更新されたMarkdownノートだけを根拠にする。
 	- 更新日時は原則としてファイルの最終更新日時を見る。
 	- 期間は開始日0:00から終了日23:59までを対象にする。
