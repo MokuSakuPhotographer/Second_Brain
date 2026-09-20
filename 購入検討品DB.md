@@ -8,3 +8,5 @@
 ---
 - ROGER & GALLET オ パフュメ セドラ
 	- CLEAN ウォームコットンより匂いが良さそうだから
+- SOFT99 ガラコミラーコート ZERO
+	- [[2026 MAZDA CX-5 G 2WD EX Package|CX-5]]のサイドミラーの撥水加工用に。
