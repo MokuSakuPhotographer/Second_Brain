@@ -8,7 +8,7 @@ type: サブスクリプション
 月額換算: 1980
 年額換算: 23760
 通貨: JPY
-契約状態: "false"
+契約状況: false
 最終確認: 2026-06-14
 出典: https://www.dazn.com/ja-JP/news/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC/dazn-fwc-cp-release/1c6m0gg4f38kr1pvb5gango7h9
 ---

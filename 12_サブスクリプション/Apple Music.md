@@ -8,7 +8,7 @@ type: サブスクリプション
 月額換算: 1080
 年額換算: 12960
 通貨: JPY
-契約状況: active
+契約状況: "false"
 最終確認: 2026-06-06
 出典: https://www.apple.com/jp/apple-music/
 ---
