@@ -1,7 +1,17 @@
-/* サイズ指定なし画像 → 300px */
-.markdown-preview-view img:not([width]),
+/* ==============================
+   Obsidian画像サイズ
+   デフォルト最大幅：300px
+   明示的なサイズ指定は優先
+   ============================== */
+
+/* リーディングモード */
+.markdown-preview-view img:not([width]) {
+  max-width: min(300px, 100%) !important;
+  height: auto !important;
+}
+
+/* 編集モード */
 .markdown-source-view.mod-cm6 img:not([width]) {
-  width: 300px;
-  height: auto;
-  max-width: 100%;
+  max-width: min(300px, 100%) !important;
+  height: auto !important;
 }

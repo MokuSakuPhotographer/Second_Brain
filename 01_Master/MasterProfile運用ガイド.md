@@ -44,7 +44,7 @@
 
 ---
 
-## CurrentFocus.md
+## [[CurrentFocus]].md
 
 現在取り組んでいることを管理する。
 
@@ -62,7 +62,7 @@
 
 ---
 
-## MonthlyReview.md
+## [[MonthlyReview]].md
 
 Dataviewで生成される更新ノート一覧。
 
