@@ -10,8 +10,8 @@ status: researched
 schema: nova-obsidian-research-v1
 note_status: draft
 related_notes:
-- 07_ナレッジベース/テーブルフォト参考レポート.md
-- 07_ナレッジベース/次に購入すべきレンズ.md
+- 08_ナレッジベース/テーブルフォト参考レポート.md
+- 08_ナレッジベース/次に購入すべきレンズ.md
 ---
 
 # F値と被写界深度の関係
