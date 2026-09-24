@@ -1,6 +1,8 @@
 ---
 type: book
 名前: <% tp.file.title %>
+出版社: 
+著者: 
 レート: <% await tp.system.prompt("レート 例: 5") %>
 視聴状況: <% await tp.system.prompt("進捗 例: 読了 / 途中") %>
 作成日: <% tp.date.now("YYYY-MM-DD") %>

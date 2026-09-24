@@ -1,3 +1,20 @@
+---
+tags:
+  - 科学/心理
+  - 科学/医学
+source:
+  - https://my.clevelandclinic.org/health/diseases/22830-thanatophobia-fear-of-death
+  - https://pubmed.ncbi.nlm.nih.gov/39208495/
+  - https://pubmed.ncbi.nlm.nih.gov/36435549/
+created: 2026-09-24
+updated: 2026-09-24
+aliases:
+  - 死恐怖症
+  - サナトフォビア
+  - death anxiety
+status: review
+---
+
 # Thanatophobia — 死恐怖症（サナトフォビア）
 
 ## 概要
