@@ -8,3 +8,6 @@
 
 
 ---
+- Tapo(タポ) 防犯カメラ TP-Link TC90 KIT
+	- https://www.amazon.co.jp/Tapo-%E3%83%95%E3%83%AB%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3-Assistant%E5%AF%BE%E5%BF%9C-C630-KIT/dp/B0FNMMGV7F
+	- 屋外防犯カメラとしての導入を検討。セールが来るまで待つ余地あり。
