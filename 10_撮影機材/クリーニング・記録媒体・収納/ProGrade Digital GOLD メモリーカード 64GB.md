@@ -7,7 +7,7 @@ type: memory_card
 シリーズ: GOLD
 容量: 64GB
 規格: SDXC / UHS-II / U3 / V60
-所有状況: 未確認
+所有状況: 所有
 tags:
   - 記録媒体
   - SDXC

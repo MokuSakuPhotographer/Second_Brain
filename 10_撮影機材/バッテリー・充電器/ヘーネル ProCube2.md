@@ -1,5 +1,6 @@
 ---
 type: charger
+所有状況: 所有
 名前: ヘーネル ProCube2
 カテゴリ: バッテリー・充電器
 メーカー: Hähnel

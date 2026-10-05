@@ -1,5 +1,6 @@
 ---
 type: bag_case
+所有状況: 所有
 名前: Hemmotop 三脚ケース 80cm*18cm*18cm
 カテゴリ: バッグ・ケース
 メーカー: Hemmotop

@@ -1,5 +1,6 @@
 ---
 type: battery
+所有状況: 所有
 名前: Panasonic エネループ単3 4本パック 大容量モデル
 カテゴリ: バッテリー・充電器
 メーカー: Panasonic

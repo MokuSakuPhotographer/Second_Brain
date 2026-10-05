@@ -1,5 +1,6 @@
 ---
 type: bag_case
+所有状況: 所有
 名前: Manfrotto カメラローラーバッグ Advanced III
 カテゴリ: バッグ・ケース
 メーカー: Manfrotto

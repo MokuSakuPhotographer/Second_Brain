@@ -1,5 +1,6 @@
 ---
 type: modifier
+所有状況: 所有
 名前: Godox ML-CD15
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Godox

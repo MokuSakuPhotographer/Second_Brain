@@ -1,5 +1,6 @@
 ---
 type: tripod
+所有状況: 所有
 名前: SIRUI Traveler X Ⅲ
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: SIRUI

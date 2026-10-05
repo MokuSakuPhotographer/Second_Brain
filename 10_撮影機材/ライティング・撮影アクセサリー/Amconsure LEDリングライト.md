@@ -1,5 +1,6 @@
 ---
 type: led_light
+所有状況: 所有
 名前: Amconsure LEDリングライト
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Amconsure

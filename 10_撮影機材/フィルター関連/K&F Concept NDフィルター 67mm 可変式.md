@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: K&F Concept NDフィルター 67mm 可変式
 カテゴリ: フィルター関連
 メーカー: K&F Concept

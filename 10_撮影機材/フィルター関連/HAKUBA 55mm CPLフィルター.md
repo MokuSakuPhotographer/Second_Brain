@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: HAKUBA 55mm CPLフィルター
 カテゴリ: フィルター関連
 メーカー: HAKUBA

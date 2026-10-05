@@ -1,5 +1,6 @@
 ---
 type: reflector
+所有状況: 所有
 名前: HIPPO REILLY A3 レフ板
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: HIPPO REILLY

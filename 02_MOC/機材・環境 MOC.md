@@ -9,9 +9,23 @@
 
 ## PC環境
 
+### メインPC
+
+- [[G-Master Spear Z790 D5|メインPC：G-Master Spear Z790 D5]]
+
 ```dataview
 LIST
-FROM "06_PC環境"
+FROM "06_PC環境/メインPC"
+SORT file.name ASC
+```
+
+### サブノートPC
+
+- [[raytrek R5-AA6|サブノートPC：raytrek R5-AA6]]
+
+```dataview
+LIST
+FROM "06_PC環境/サブノートPC"
 SORT file.name ASC
 ```
 

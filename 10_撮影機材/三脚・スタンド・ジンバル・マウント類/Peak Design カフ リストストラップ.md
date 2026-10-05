@@ -1,5 +1,6 @@
 ---
 type: strap
+所有状況: 所有
 名前: Peak Design カフ リストストラップ
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: Peak Design

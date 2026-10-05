@@ -1,5 +1,6 @@
 ---
 type: strobe
+所有状況: 所有
 名前: GODOX AD100Pro Ⅱ
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Godox

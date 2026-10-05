@@ -1,5 +1,6 @@
 ---
 type: grip
+所有状況: 所有
 名前: SmallRig DJI RSC2用ハンドグリップ
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: SmallRig

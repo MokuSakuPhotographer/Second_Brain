@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: K&F Concept フィルターケース 10枚用
 カテゴリ: フィルター関連
 メーカー: K&F Concept

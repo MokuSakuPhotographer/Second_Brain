@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: Kenko 可変NDフィルター 77mm ND3-400
 カテゴリ: フィルター関連
 メーカー: Kenko

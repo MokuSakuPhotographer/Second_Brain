@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: MARUMI 67mm CPLフィルター
 カテゴリ: フィルター関連
 メーカー: MARUMI

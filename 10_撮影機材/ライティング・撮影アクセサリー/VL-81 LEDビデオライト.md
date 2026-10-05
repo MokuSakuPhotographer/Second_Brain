@@ -1,5 +1,6 @@
 ---
 type: led_light
+所有状況: 所有
 名前: VL-81 LEDビデオライト
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: VIJIM/ULANZI系

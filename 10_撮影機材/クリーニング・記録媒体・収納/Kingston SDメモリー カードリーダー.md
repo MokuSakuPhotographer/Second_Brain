@@ -10,7 +10,7 @@ type: card_reader
 対応カード: SDHC / SDXC / UHS-I / UHS-II
 サイズ: 51.8 x 33.5 x 9mm
 重量: 11g
-所有状況: 未確認
+所有状況: 所有
 tags:
   - 記録媒体
   - カードリーダー

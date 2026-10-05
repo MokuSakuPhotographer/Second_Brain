@@ -1,5 +1,6 @@
 ---
 type: bracket
+所有状況: 所有
 名前: Godox S3 ブラケット Bowensマウント
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Godox

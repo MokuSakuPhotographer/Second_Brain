@@ -1,5 +1,6 @@
 ---
 type: quick_release
+所有状況: 所有
 名前: PGYTECH クイックリリースクランプ V2
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: PGYTECH

@@ -7,6 +7,12 @@
 - [[購入検討品DB]]
 - [[購入検討品一覧]]
 
+```dataview
+LIST
+FROM "11_購入検討品"
+SORT file.name ASC
+```
+
 ## 購入済み
 
 ```dataview

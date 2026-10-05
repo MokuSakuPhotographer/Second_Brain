@@ -1,5 +1,6 @@
 ---
 type: reflector
+所有状況: 所有
 名前: Selens 撮影用 レフ板 80cm
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: Selens

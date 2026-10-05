@@ -10,7 +10,7 @@ type: memory_card
 最大読込速度: 300MB/s
 最大書込速度: 260MB/s
 ファイルシステム: exFAT
-所有状況: 未確認
+所有状況: 所有
 tags:
   - 記録媒体
   - SDXC

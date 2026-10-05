@@ -1,5 +1,6 @@
 ---
 type: filter
+所有状況: 所有
 名前: Kenko 77mm CPLフィルター PRO1D NEO
 カテゴリ: フィルター関連
 メーカー: Kenko

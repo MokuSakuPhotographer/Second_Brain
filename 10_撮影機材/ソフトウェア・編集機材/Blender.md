@@ -5,7 +5,7 @@ type: software
 メーカー: Blender Foundation
 用途: 3D制作
 利用形態: 無料 / オープンソース
-所有状況: 未確認
+所有状況: 所有
 tags:
   - ソフトウェア
   - 3D

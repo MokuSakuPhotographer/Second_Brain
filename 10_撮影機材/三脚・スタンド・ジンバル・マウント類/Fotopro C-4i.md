@@ -1,5 +1,6 @@
 ---
 type: tripod
+所有状況: 所有
 名前: Fotopro C-4i
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: Fotopro

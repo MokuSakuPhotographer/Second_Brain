@@ -8,7 +8,7 @@ type: memory_card
 規格: microSDXC
 速度クラス: 未確認
 推奨用途: アクションカメラ用記録媒体
-所有状況: 未確認
+所有状況: 所有
 tags:
   - 記録媒体
   - microSD

@@ -1,5 +1,6 @@
 ---
 type: umbrella
+所有状況: 所有
 名前: UNPLUGGED STUDIO 33インチ ホワイトアンブレラ
 カテゴリ: ライティング・撮影アクセサリー
 メーカー: UNPLUGGED STUDIO

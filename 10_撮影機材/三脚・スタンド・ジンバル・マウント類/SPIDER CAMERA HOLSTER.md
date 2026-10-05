@@ -1,5 +1,6 @@
 ---
 type: holster
+所有状況: 所有
 名前: SPIDER CAMERA HOLSTER
 カテゴリ: 三脚・スタンド・ジンバル・マウント類
 メーカー: SPIDER
