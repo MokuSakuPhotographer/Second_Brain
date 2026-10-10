@@ -24,6 +24,7 @@ tags:
 aliases:
   - CRP-3051
   - Crapt CRP-3051
+  - メガネ
 source_urls:
   - "眼鏡市場公式商品ページ: https://www.meganeichiba.jp/shop/g/g20031221014312103110540003/"
 ---
