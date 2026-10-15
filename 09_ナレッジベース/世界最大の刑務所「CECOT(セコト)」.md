@@ -1,5 +1,4 @@
 ---
-sort_yomi: せかいさいだいのけいむしょせこっと
 tags:
   - 社会/制度
   - 社会/国際情勢
@@ -10,6 +9,8 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連: []
+sort_yomi: せかいさいだいのけいむしょせこっと
 status: draft
 ---
 

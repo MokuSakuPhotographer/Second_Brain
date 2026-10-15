@@ -1,5 +1,4 @@
 ---
-sort_yomi: さなとふぉびあしきょうふしょう
 tags:
   - 科学/心理
   - 科学/医学
@@ -13,6 +12,9 @@ aliases:
   - 死恐怖症
   - サナトフォビア
   - death anxiety
+関連:
+  - "[[◯◯恐怖症 辞典]]"
+sort_yomi: さなとふぉびあしきょうふしょう
 status: review
 ---
 

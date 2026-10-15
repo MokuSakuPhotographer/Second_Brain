@@ -1,5 +1,4 @@
 ---
-sort_yomi: あいぼりーせぶんこーどいつわりのおれんじこうさつ
 tags:
   - 文化/音楽
   - 文化/文学
@@ -9,6 +8,9 @@ created: 2026-07-04
 updated: 2026-07-04
 aliases:
   -
+関連:
+  - "[[IVORY7 CHORD「Paradox」考察]]"
+sort_yomi: あいぼりーせぶんこーどいつわりのおれんじこうさつ
 status: draft
 ---
 

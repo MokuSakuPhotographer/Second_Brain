@@ -1,5 +1,4 @@
 ---
-sort_yomi: すーぷらあでぃてぃぶえふぇくとちょうかさんこうか
 tags:
   - 科学/心理
 source:
@@ -10,6 +9,9 @@ updated: 2026-09-24
 aliases:
   - 超加算効果
   - superadditive effect
+関連:
+  - "[[なぜ「身体に悪いもの」は美味しく感じやすいのか]]"
+sort_yomi: すーぷらあでぃてぃぶえふぇくとちょうかさんこうか
 status: review
 ---
 

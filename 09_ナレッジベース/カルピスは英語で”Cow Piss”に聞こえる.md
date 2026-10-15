@@ -1,5 +1,4 @@
 ---
-sort_yomi: かるぴすはえいごでかうぴすにきこえる
 tags:
   - 言語/英語
   - 言語/発音
@@ -10,6 +9,8 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連: []
+sort_yomi: かるぴすはえいごでかうぴすにきこえる
 status: draft
 ---
 

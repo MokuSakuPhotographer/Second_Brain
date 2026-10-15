@@ -1,5 +1,4 @@
 ---
-sort_yomi: やかんにこくしょくめいさいはえぬじー
 tags:
   - 科学/物理
   - 文化/写真
@@ -12,6 +11,8 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連: []
+sort_yomi: やかんにこくしょくめいさいはえぬじー
 status: draft
 ---
 

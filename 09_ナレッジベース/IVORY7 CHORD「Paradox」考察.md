@@ -1,5 +1,4 @@
 ---
-sort_yomi: あいぼりーせぶんこーどぱらどっくすこうさつ
 tags:
   - 文化/音楽
   - 文化/文学
@@ -9,6 +8,10 @@ created: 2026-07-04
 updated: 2026-07-04
 aliases:
   -
+関連:
+  - "[[IVORY7 CHORD「偽りのオレンジ」考察]]"
+  - "[[IVORY7 CHORD Luminously 歌詞]]"
+sort_yomi: あいぼりーせぶんこーどぱらどっくすこうさつ
 status: draft
 ---
 

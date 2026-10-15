@@ -1,5 +1,4 @@
 ---
-sort_yomi: えるぶらけっとけーじどうにゅうけいかくあん
 tags:
   - 技術/カメラ
   - 文化/写真
@@ -9,6 +8,10 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連:
+  - "[[テーブルフォト参考レポート]]"
+  - "[[SmallRig 3984 Foldable L-Bracket for Sony α7 IV α7R V α7S III]]"
+sort_yomi: えるぶらけっとけーじどうにゅうけいかくあん
 status: draft
 ---
 

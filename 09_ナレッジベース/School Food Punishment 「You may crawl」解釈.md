@@ -1,5 +1,4 @@
 ---
-sort_yomi: すくーるふーどぱにっしゅめんとゆーめいくろーるかいしゃく
 tags:
   - 文化/音楽
   - 文化/文学
@@ -9,6 +8,9 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連:
+  - "[[School Food Punishment 「egoist」解釈]]"
+sort_yomi: すくーるふーどぱにっしゅめんとゆーめいくろーるかいしゃく
 status: draft
 ---
 

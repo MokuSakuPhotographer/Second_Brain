@@ -1,5 +1,4 @@
 ---
-sort_yomi: ちゃっとじーぴーてぃーのゆーざーへのひょうか
 tags:
   - 技術/AI
   - 科学/心理
@@ -9,6 +8,8 @@ created: 2026-06-19
 updated: 2026-06-07
 aliases:
   -
+関連: []
+sort_yomi: ちゃっとじーぴーてぃーのゆーざーへのひょうか
 status: draft
 ---
 

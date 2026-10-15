@@ -8,6 +8,8 @@ created: 2026-09-08
 updated: 2026-09-08
 aliases:
   -
+関連:
+  - "[[IVORY7 CHORD「Paradox」考察]]"
 sort_yomi: あいぼりーせぶんこーどるみなすりーかし
 status: draft
 ---
