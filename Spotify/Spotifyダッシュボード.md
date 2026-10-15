@@ -21,8 +21,10 @@ const MusicStats = (() => {
   }
   function ranges(today) {
     const weekday = new Date(`${today}T00:00:00Z`).getUTCDay();
+    const monday = shift(today, -((weekday + 6) % 7));
     return [
-      {label: "今週", from: shift(today, -((weekday + 6) % 7)), to: today},
+      {label: "今週", from: monday, to: today},
+      {label: "先週", from: shift(monday, -7), to: shift(monday, -1)},
       {label: "今月", from: `${today.slice(0, 7)}-01`, to: today},
       {label: "直近3ヶ月（90日）", from: shift(today, -89), to: today},
       {label: "今年", from: `${today.slice(0, 4)}-01-01`, to: today}
