@@ -1,3 +1,21 @@
+---
+tags:
+  - 言語/英語
+  - 言語/語彙
+  - 科学/生物
+source:
+  - "https://dictionary.cambridge.org/dictionary/english/bug](https://dictionary.cambridge.org/dictionary/english/bug?utm_source=chatgpt.com"
+  - "https://dictionary.cambridge.org/dictionary/english/insect](https://dictionary.cambridge.org/dictionary/english/insect?utm_source=chatgpt.com"
+  - "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-insect](https://naturalhistory.si.edu/education/teaching-resources/life-science/what-insect?utm_source=chatgpt.com"
+  - "https://www.dictionary.com/articles/bug-vs-insect](https://www.dictionary.com/articles/bug-vs-insect?utm_source=chatgpt.com"
+created: 2026-10-25
+updated: 2026-10-27
+aliases: []
+関連:
+  - "[[ゲームやPCで言われる「バグ」は「虫」から来ている？]]"
+sort_yomi: ばぐといんせくとのちがい
+status: review
+---
 # BugとInsectの違い｜英語の「虫」の使い分け
 
 ## 概要
