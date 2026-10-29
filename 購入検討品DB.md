@@ -8,3 +8,6 @@
 
 
 ---
+- instax mini EVO 2
+	- https://instax.jp/mini_evo_2/
+	- 取ってその場でチェキ印刷できるのがアツい。機構も好き。
