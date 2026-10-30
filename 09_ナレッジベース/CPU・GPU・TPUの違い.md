@@ -1,3 +1,22 @@
+---
+tags:
+  - "技術/ハードウェア"
+  - "技術/PC"
+  - "技術/AI"
+source:
+  - "https://www.intel.co.jp/content/www/jp/ja/products/docs/processors/cpu-vs-gpu.html?utm_source=chatgpt.com"
+  - "https://docs.cloud.google.com/tpu/docs/intro-to-tpu?utm_source=chatgpt.com"
+  - "https://docs.cloud.google.com/tpu/docs/system-architecture-tpu-vm?hl=ja&utm_source=chatgpt.com"
+  - "https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/?utm_source=chatgpt.com"
+  - "https://aws.amazon.com/compare/the-difference-between-gpus-and-cpus/?utm_source=chatgpt.com"
+created: 2026-10-29
+updated: 2026-10-29
+aliases: []
+関連: []
+sort_yomi: しーぴーゆーじーぴーゆーてぃーぴーゆーのちがい
+status: review
+---
+
 # CPU・GPU・TPUの違いと仕組み
 
 ## 1. 概要

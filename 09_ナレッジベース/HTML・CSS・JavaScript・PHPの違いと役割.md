@@ -1,3 +1,23 @@
+---
+tags:
+  - "技術/プログラミング"
+  - "技術/ソフトウェア"
+source:
+  - "https://developer.mozilla.org/ja/docs/Web/HTML](https://developer.mozilla.org/ja/docs/Web/HTML"
+  - "https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/What_is_CSS](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/What_is_CSS"
+  - "https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Scripting/What_is_JavaScript](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Scripting/What_is_JavaScript"
+  - "https://www.php.net/manual/ja/introduction.php](https://www.php.net/manual/ja/introduction.php"
+  - "https://developer.mozilla.org/ja/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction](https://developer.mozilla.org/ja/docs/Learn_web_development/Extensions/Server-side/First_steps/Introduction"
+  - "https://developer.mozilla.org/ja/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview](https://developer.mozilla.org/ja/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview"
+created: 2026-10-29
+updated: 2026-10-29
+aliases: []
+関連:
+  - "[[静的・動的サイトの仕組みと違い]]"
+sort_yomi: えいちてぃーえむえるしーえすえすじゃばすくりぷとぴーえいちぴーのちがいとやくわり
+status: review
+---
+
 # HTML・CSS・JavaScript・PHPの違いと役割
 
 ## 1. 概要
