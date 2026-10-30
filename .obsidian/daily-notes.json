@@ -1,4 +1,5 @@
 {
   "template": "テンプレート/Notes/Template_Daily.md",
-  "folder": "05_Daily"
+  "folder": "05_Daily",
+  "format": "YYYY-MM-DD"
 }

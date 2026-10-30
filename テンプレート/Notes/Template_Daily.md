@@ -1,4 +1,54 @@
-# {{date}}
+---
+type: daily
+date: <% tp.file.title %>
+month: "[[<% tp.file.title.slice(0, 7) %>]]"
+spotify_log: <% await app.vault.adapter.exists("Spotify/Spotifyログ/" + tp.file.title + ".md") ? JSON.stringify("[[Spotifyログ/" + tp.file.title + "]]") : "null" %>
+---
+<%*
+const dailyName = tp.file.title;
+if (!/^\d{4}-\d{2}-\d{2}$/.test(dailyName) || !moment(dailyName, "YYYY-MM-DD", true).isValid()) {
+    throw new Error("日次ノート名は有効なYYYY-MM-DD形式にしてください");
+}
+if (tp.config.target_file.path !== "05_Daily/" + dailyName + ".md") {
+    throw new Error("日次テンプレートは05_Daily直下の日次ノートに適用してください");
+}
+const monthName = dailyName.slice(0, 7);
+const monthlyFolder = "05_Daily/Monthly";
+const monthlyPath = monthlyFolder + "/" + monthName + ".md";
+if (!await app.vault.adapter.exists(monthlyFolder)) {
+    try {
+        await app.vault.createFolder(monthlyFolder);
+    } catch (error) {
+        if (!await app.vault.adapter.exists(monthlyFolder)) throw error;
+    }
+}
+if (!await app.vault.adapter.exists(monthlyPath)) {
+    const monthlyContent = `---
+type: monthly
+year_month: "${monthName}"
+---
+
+# ${monthName}
+
+[[自己管理・日次 MOC|← 自己管理・日次 MOC]]
+
+## 日次ノート
+
+\`\`\`dataview
+LIST
+FROM "05_Daily"
+WHERE type = "daily" AND dateformat(date, "yyyy-MM") = this.file.name
+SORT date ASC
+\`\`\`
+`;
+    try {
+        await app.vault.create(monthlyPath, monthlyContent);
+    } catch (error) {
+        if (!await app.vault.adapter.exists(monthlyPath)) throw error;
+    }
+}
+%>
+# <% tp.file.title %>
 
 ## 📸 現場
 * 
