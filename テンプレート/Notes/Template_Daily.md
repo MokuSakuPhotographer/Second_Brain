@@ -2,7 +2,7 @@
 type: daily
 date: <% tp.file.title %>
 month: "[[<% tp.file.title.slice(0, 7) %>]]"
-spotify_log: <% await app.vault.adapter.exists("Spotify/Spotifyログ/" + tp.file.title + ".md") ? JSON.stringify("[[Spotifyログ/" + tp.file.title + "]]") : "null" %>
+spotify_log: <% JSON.stringify("[[Spotifyログ/" + tp.file.title + "]]") %>
 ---
 <%*
 const dailyName = tp.file.title;
