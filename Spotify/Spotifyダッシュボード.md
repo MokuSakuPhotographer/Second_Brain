@@ -33,6 +33,7 @@ const MusicStats = (() => {
   function aggregate(pages, range) {
     const artists = new Map(), songs = new Map(), genres = new Map(), days = new Map(), ids = new Set();
     let count = 0, ms = 0, unknown = 0, invalid = 0;
+    const resolution = {classified: 0, detail_only: 0, unclassified: 0};
     for (let day = range.from; day <= range.to; day = shift(day, 1)) days.set(day, {count: 0, ms: 0});
     const add = (map, key, label) => { const row = map.get(key) ?? {label, count: 0}; row.count++; map.set(key, row); };
     for (const page of pages) {
@@ -53,6 +54,8 @@ const MusicStats = (() => {
         add(artists, artist, String(play.artist));
         add(songs, song, `${play.track} — ${play.artist}${play.album ? ` / ${play.album}` : ""}`);
         const genre = String(play.primary_genre || "未分類");
+        const state = play.genre_resolution_status === "detail_only" ? "detail_only" : genre === "未分類" ? "unclassified" : "classified";
+        resolution[state]++;
         add(genres, normalize(genre), genre);
         const daily = days.get(day); daily.count++; daily.ms += duration;
       }
@@ -66,7 +69,7 @@ const MusicStats = (() => {
         return {...row, rank: position, percent: count ? row.count / count * 100 : 0};
       });
     };
-    return {count, ms, unknown, invalid, uniqueSongs: songs.size, uniqueArtists: artists.size,
+    return {count, ms, unknown, invalid, resolution, uniqueSongs: songs.size, uniqueArtists: artists.size,
       artists: rank(artists), songs: rank(songs), genres: rank(genres), days: [...days.entries()]};
   }
   const time = ms => `${Math.floor(ms / 3600000)}時間${Math.floor(ms / 60000) % 60}分`;
@@ -124,6 +127,8 @@ if (typeof dv !== "undefined") {
     el("h3", "ジャンル統計");
     table(["ジャンル", "再生回数", "割合"], stats.genres.map(r => [r.label, r.count, `${r.percent.toFixed(1)}%`]));
     el("p", `未分類：${stats.genres.find(r => r.label === "未分類")?.count ?? 0}件`);
+    table(["分類状況", "再生回数", "割合"], [["大分類済み", "classified"], ["詳細ジャンルのみ（その他）", "detail_only"], ["未分類", "unclassified"]]
+      .map(([label, state]) => [label, stats.resolution[state], `${(stats.count ? stats.resolution[state] / stats.count * 100 : 0).toFixed(1)}%`]));
     const recentDays = [...stats.days].reverse();
     bars(recentDays, r => r[1].count, v => `${v}回`, "日別再生回数（新しい日付から）");
     bars(recentDays, r => r[1].ms, MusicStats.time, "日別推定楽曲時間（新しい日付から）");
@@ -144,3 +149,5 @@ if (typeof dv !== "undefined") {
 ```
 
 データ提供：[Last.fm](https://www.last.fm/) / [powered by AudioScrobbler](https://www.last.fm/)（個人利用）
+
+ジャンル・照合情報：[MusicBrainz](https://musicbrainz.org/) / 補助データ：[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
