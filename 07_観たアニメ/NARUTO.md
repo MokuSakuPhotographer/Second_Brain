@@ -2,14 +2,20 @@
 type: anime
 名前: NARUTO
 レート: 5
+視聴状況:
+作成日:
 好きなキャラ:
   - はたけカカシ
   - 白
   - デイダラ
+備考:
+関連作品: []
+関連キャラ: []
 tags:
   - anime
   - NARUTO
   - 少年漫画
+aliases:
 ---
 # NARUTO
 

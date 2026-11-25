@@ -2,14 +2,20 @@
 type: anime
 名前: Dr.STONE
 レート: 5
+視聴状況:
+作成日:
 好きなキャラ:
   - スイカ
   - カセキ
+備考:
+関連作品: []
+関連キャラ: []
 tags:
   - anime
   - Dr_STONE
   - SF
   - 泣いた
+aliases:
 ---
 # Dr.STONE
 

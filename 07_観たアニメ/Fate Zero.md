@@ -2,13 +2,19 @@
 type: anime
 名前: Fate Zero
 レート: 5
+視聴状況:
+作成日:
 好きなキャラ:
   - セイバー
   - ライダー
+備考:
+関連作品: []
+関連キャラ: []
 tags:
   - anime
   - Fate_Zero
   - Fate
+aliases:
 ---
 # Fate Zero
 

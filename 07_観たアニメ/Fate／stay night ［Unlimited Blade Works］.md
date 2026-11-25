@@ -2,9 +2,14 @@
 type: anime
 名前: Fate/stay night [Unlimited Blade Works]
 レート: 6
+視聴状況:
+作成日:
 好きなキャラ:
   - セイバー
   - ランサー
+備考:
+関連作品: []
+関連キャラ: []
 tags:
   - anime
   - Fate-stay_night_Unlimited_Blade_Works
